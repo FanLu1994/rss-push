@@ -1,0 +1,8 @@
+feeds:
+  - name: Hacker News
+    url: https://hnrss.org/frontpage
+    enabled: true
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    enabled: true
+

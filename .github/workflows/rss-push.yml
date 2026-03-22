@@ -1,0 +1,62 @@
+name: rss-push
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Run pipeline
+        env:
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          # legacy compatibility
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          GLM_API_KEY: ${{ secrets.GLM_API_KEY }}
+          GLM_MODEL: ${{ vars.GLM_MODEL }}
+          GLM_BASE_URL: ${{ vars.GLM_BASE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MAX_ITEMS: ${{ vars.MAX_ITEMS }}
+          RSS_FETCH_TIMEOUT_MS: ${{ vars.RSS_FETCH_TIMEOUT_MS }}
+          AI_TIMEOUT_MS: ${{ vars.AI_TIMEOUT_MS }}
+          STATE_MAX_ITEMS: ${{ vars.STATE_MAX_ITEMS }}
+          OPML_FILE: ${{ vars.OPML_FILE }}
+        run: npm run start
+
+      - name: Commit state changes
+        run: |
+          if git diff --quiet -- state/processed.json; then
+            echo "No state changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/processed.json
+          git commit -m "chore(state): update processed rss entries [skip ci]"
+          git push
