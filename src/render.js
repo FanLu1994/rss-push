@@ -1,31 +1,55 @@
-function escapeMd(s) {
-  return String(s ?? "")
-    .replace(/([_\*\[\]()~`>#+\-=|{}.!\\])/g, "\\$1")
+import MarkdownIt from "markdown-it";
+
+const md = new MarkdownIt({
+  html: false,
+  linkify: false,
+  breaks: false,
+});
+
+function escapeMarkdown(text) {
+  return String(text ?? "")
+    .replace(/\\/g, "\\\\")
+    .replace(/([`*_{}\[\]()#+\-.!>~|])/g, "\\$1")
+    .trim();
+}
+
+function normalizeTelegramHtml(html) {
+  return html
+    .replace(/^\s*<p>/, "")
+    .replace(/<\/p>\s*$/g, "")
+    .replace(/<\/p>\s*<p>/g, "\n\n")
+    .replace(/<br\s*\/?>/g, "\n")
     .trim();
 }
 
 export function renderBatch(nowIso, items) {
   const now = nowIso.slice(0, 16).replace("T", " ");
   const lines = [];
-  lines.push(`*RSS 更新*  (${escapeMd(now)} UTC)`);
+  lines.push(`**RSS 更新** (${escapeMarkdown(now)} UTC)`);
   lines.push("");
 
   for (const it of items) {
-    const title = escapeMd(it.article.title);
-    const source = escapeMd(it.article.source);
-    const brief = escapeMd(it.ai.brief);
-    const link = it.article.link;
+    const title = escapeMarkdown(it.article.title);
+    const source = escapeMarkdown(it.article.source);
+    const brief = escapeMarkdown(it.ai.brief);
+    const link = String(it.article.link ?? "").trim();
 
-    lines.push(`*${title}*`);
-    lines.push(`_${source}_`);
-    lines.push(brief);
+    if (title) {
+      lines.push(`**${title}**`);
+    }
+    if (source) {
+      lines.push(`_来源: ${source}_`);
+    }
+    if (brief) {
+      lines.push(brief);
+    }
     if (link) {
-      lines.push(link);
+      lines.push(`<${link}>`);
     }
     lines.push("");
   }
 
-  return lines.join("\n").trim();
+  return normalizeTelegramHtml(md.render(lines.join("\n").trim()));
 }
 
 export function chunkTelegram(text, maxLen = 3500) {

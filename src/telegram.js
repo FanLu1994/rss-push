@@ -20,7 +20,7 @@ export async function sendTelegramMessages(env, messages) {
           body: JSON.stringify({
             chat_id: env.telegramChatId,
             text,
-            parse_mode: "MarkdownV2",
+            parse_mode: "HTML",
             disable_web_page_preview: true,
           }),
         });
@@ -33,7 +33,10 @@ export async function sendTelegramMessages(env, messages) {
         }
 
         if (!resp.ok) {
-          throw new Error(`sendMessage failed status=${resp.status}`);
+          const bodyText = await resp.text().catch(() => "");
+          throw new Error(
+            `sendMessage failed status=${resp.status}${bodyText ? ` body=${bodyText}` : ""}`
+          );
         }
 
         lastError = null;
