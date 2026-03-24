@@ -7,6 +7,19 @@ function timeoutSignal(timeoutMs) {
   return { signal: controller.signal, cancel: () => clearTimeout(timer) };
 }
 
+function withTimeout(task, signal) {
+  return Promise.race([
+    task,
+    new Promise((_, reject) => {
+      signal.addEventListener(
+        "abort",
+        () => reject(new Error("RSS fetch timeout")),
+        { once: true }
+      );
+    }),
+  ]);
+}
+
 function safeDate(value) {
   const t = Date.parse(value ?? "");
   return Number.isFinite(t) ? new Date(t).toISOString() : "";
@@ -26,7 +39,7 @@ export async function fetchFeedArticles(feed, timeoutMs) {
   const parser = new Parser();
   const { signal, cancel } = timeoutSignal(timeoutMs);
   try {
-    const parsed = await parser.parseURL(feed.url, { signal });
+    const parsed = await withTimeout(parser.parseURL(feed.url), signal);
     const items = Array.isArray(parsed.items) ? parsed.items : [];
     return items.map((item) => ({
       id: buildArticleId(item, feed.name ?? feed.url),
