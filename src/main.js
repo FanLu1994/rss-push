@@ -16,31 +16,6 @@ function sortByPublishedDesc(articles) {
   });
 }
 
-function groupArticlesByFeed(articles) {
-  const map = new Map();
-
-  for (const article of articles) {
-    const feedUrl = String(article.feed_url ?? "").trim();
-    if (!feedUrl) {
-      continue;
-    }
-
-    const group = map.get(feedUrl);
-    if (group) {
-      group.articles.push(article);
-      continue;
-    }
-
-    map.set(feedUrl, {
-      feedUrl,
-      source: article.source,
-      articles: [article],
-    });
-  }
-
-  return [...map.values()].sort((a, b) => publishedAtMs(b.articles[0]) - publishedAtMs(a.articles[0]));
-}
-
 async function summarizeArticles(articles, env, concurrency = 3) {
   const results = new Array(articles.length);
   let nextIndex = 0;
@@ -84,38 +59,26 @@ async function main() {
 
   const all = feedResults.flatMap((r) => r.articles);
   const fresh = sortByPublishedDesc(all).filter((a) => isNewArticle(state, a)).slice(0, env.maxItems);
-  const groups = groupArticlesByFeed(fresh);
 
   if (fresh.length === 0) {
     console.log("[main] no new articles");
     return;
   }
 
-  let totalSentArticles = 0;
-  let totalSentChunks = 0;
+  const analyzed = await summarizeArticles(fresh, env, 3);
+  const message = renderBatch(new Date().toISOString(), analyzed);
+  const chunks = chunkTelegram(message);
+  const sent = await sendTelegramMessages(env, chunks);
 
-  for (const group of groups) {
-    const analyzed = await summarizeArticles(group.articles, env, 3);
-    const message = renderBatch(new Date().toISOString(), analyzed);
-    const chunks = chunkTelegram(message);
-    const sent = await sendTelegramMessages(env, chunks);
-
-    if (!sent) {
-      console.log("[main] dry-run mode (telegram not configured), state not updated");
-      return;
-    }
-
-    markProcessed(state, group.articles);
-    await saveState(cwd, state);
-
-    totalSentArticles += group.articles.length;
-    totalSentChunks += chunks.length;
-    console.log(
-      `[main] pushed ${group.articles.length} article(s) for ${group.source || group.feedUrl}, message chunks=${chunks.length}`
-    );
+  if (!sent) {
+    console.log("[main] dry-run mode (telegram not configured), state not updated");
+    return;
   }
 
-  console.log(`[main] pushed ${totalSentArticles} new article(s), message chunks=${totalSentChunks}`);
+  markProcessed(state, fresh);
+  await saveState(cwd, state);
+
+  console.log(`[main] pushed ${fresh.length} new article(s), message chunks=${chunks.length}`);
 }
 
 main().catch((error) => {

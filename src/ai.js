@@ -12,6 +12,7 @@ function buildPrompt(article) {
     "你是一个技术资讯编辑。",
     "请基于给定文章信息输出 JSON（禁止输出额外文本）。",
     "字段要求:",
+    "title_zh: 标题中文化结果；如果原标题是英文，翻译成简洁自然的中文标题；如果原标题已经是中文、或不适合翻译，则返回原标题",
     "brief: 40-80字中文简介",
     "highlights: 2-4条中文要点数组",
     "why_it_matters: 1句中文，说明价值",
@@ -27,6 +28,7 @@ function buildPrompt(article) {
 function fallback(article) {
   const brief = (article.summary_raw || "").replace(/\s+/g, " ").trim().slice(0, 80) || "暂无摘要";
   return {
+    title_zh: String(article.title ?? "").trim(),
     brief,
     highlights: [],
     why_it_matters: "可作为信息追踪参考。",
@@ -66,6 +68,7 @@ export async function summarizeArticle(article, env) {
     const parsed = parseJsonBlock(text);
 
     return {
+      title_zh: String(parsed.title_zh ?? "").trim() || String(article.title ?? "").trim(),
       brief: String(parsed.brief ?? "").trim() || fallback(article).brief,
       highlights: Array.isArray(parsed.highlights) ? parsed.highlights.map(String).slice(0, 4) : [],
       why_it_matters: String(parsed.why_it_matters ?? "").trim() || "可作为信息追踪参考。",

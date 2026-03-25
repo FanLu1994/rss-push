@@ -29,7 +29,7 @@ export function renderBatch(nowIso, items) {
   lines.push("");
 
   for (const it of items) {
-    const title = escapeMarkdown(it.article.title);
+    const title = escapeMarkdown(it.ai.title_zh || it.article.title);
     const source = escapeMarkdown(it.article.source);
     const brief = escapeMarkdown(it.ai.brief);
     const link = String(it.article.link ?? "").trim();
