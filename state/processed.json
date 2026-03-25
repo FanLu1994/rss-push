@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T19:24:11.944Z",
+  "updated_at": "2026-03-25T20:19:05.186Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-25T09:40:41.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-25/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-25T17:43:17.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47520717",
-      "article_link": "https://www.bbc.co.uk/news/articles/c747x7gz249o"
+      "published_at": "2026-03-25T19:36:39.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47522112",
+      "article_link": "https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-25T02:09:00.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647680984&idx=1&sn=ecbe236bf31aa18fcff2e1fcdd56f9a7"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-25T19:16:27.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42799",
-      "article_link": "https://developer.apple.com/news/?id=hh6v4b55"
+      "published_at": "2026-03-25T19:50:07.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42800",
+      "article_link": "https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-03-25T17:15:50.000Z",
@@ -380,6 +380,21 @@
       "published_at": "2026-02-05T00:00:00.000Z",
       "article_id": "https://mitchellh.com/writing/my-ai-adoption-journey",
       "article_link": "https://mitchellh.com/writing/my-ai-adoption-journey"
+    },
+    "https://skyfall.dev/rss.xml": {
+      "published_at": "2026-02-13T00:00:00.000Z",
+      "article_id": "https://mahadk.com/posts/4o/",
+      "article_link": "https://mahadk.com/posts/4o/"
+    },
+    "https://borretti.me/feed.xml": {
+      "published_at": "2026-01-31T00:00:00.000Z",
+      "article_id": "https://borretti.me/article/some-data-should-be-code",
+      "article_link": "https://borretti.me/article/some-data-should-be-code"
+    },
+    "https://luyuhuang.tech/feed.xml": {
+      "published_at": "2026-01-27T16:00:00.000Z",
+      "article_id": "https://luyuhuang.tech/2026/01/28/programmer-class.html",
+      "article_link": "https://luyuhuang.tech/2026/01/28/programmer-class.html"
     }
   }
 }
