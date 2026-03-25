@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T18:28:32.018Z",
+  "updated_at": "2026-03-25T19:24:11.944Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-25T09:40:41.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647680984&idx=1&sn=ecbe236bf31aa18fcff2e1fcdd56f9a7"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-25T01:09:10.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42798",
-      "article_link": "https://claude.com/blog/dispatch-and-computer-use"
+      "published_at": "2026-03-25T19:16:27.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42799",
+      "article_link": "https://developer.apple.com/news/?id=hh6v4b55"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-03-25T17:15:50.000Z",
@@ -335,6 +335,51 @@
       "published_at": "2026-02-26T03:50:16.000Z",
       "article_id": "https://scottyeung.top/2026/ccpclean/",
       "article_link": "https://scottyeung.top/2026/ccpclean/"
+    },
+    "https://www.theatlantic.com/feed/author/derek-thompson/": {
+      "published_at": "2026-02-22T12:00:00.000Z",
+      "article_id": "tag:theatlantic.com,2026:50-686076",
+      "article_link": "https://www.theatlantic.com/ideas/2026/02/social-media-literacy-crisis/686076/?utm_source=feed"
+    },
+    "https://veryjack.com/feed/": {
+      "published_at": "2026-02-19T14:54:27.000Z",
+      "article_id": "https://veryjack.com/?p=6782",
+      "article_link": "https://veryjack.com/technique/cookie/"
+    },
+    "https://cbvivi.today/feed.xml": {
+      "published_at": "2026-02-16T16:35:19.000Z",
+      "article_id": "https://cbvivi.today/20260217",
+      "article_link": "https://cbvivi.today/20260217"
+    },
+    "https://utcc.utoronto.ca/~cks/cspace-stub-feeds/cloud-source.atom": {
+      "published_at": "2026-02-15T03:54:10.000Z",
+      "article_id": "tag:cspace@utcc.utoronto.ca,2026-02-15:generic-ua.atom",
+      "article_link": "https://utcc.utoronto.ca/~cks/cspace-gen-http429.html"
+    },
+    "https://www.righto.com/feeds/posts/default": {
+      "published_at": "2026-02-14T16:48:00.000Z",
+      "article_id": "tag:blogger.com,1999:blog-6264947694886887540.post-8201340188892833254",
+      "article_link": "http://www.righto.com/2026/02/8087-instruction-decoding.html"
+    },
+    "https://catcoding.me/atom.xml": {
+      "published_at": "2026-02-12T16:55:52.000Z",
+      "article_id": "http://catcoding.me/p/apple-gatekeeper-scan/",
+      "article_link": "http://catcoding.me/p/apple-gatekeeper-scan/"
+    },
+    "https://blog.gotocoding.com/feed": {
+      "published_at": "2026-02-12T05:17:23.000Z",
+      "article_id": "https://blog.gotocoding.com/?p=2042",
+      "article_link": "https://blog.gotocoding.com/archives/2042?utm_source=rss&utm_medium=rss&utm_campaign=%25e9%25a6%2596%25e6%25ac%25a1%25e5%259c%25a8%25e7%2594%259f%25e4%25ba%25a7%25e7%258e%25af%25e5%25a2%2583%25e4%25bd%25bf%25e7%2594%25a8-vibe-coding"
+    },
+    "https://networm.me/tags/unity/index.xml": {
+      "published_at": "2026-02-08T15:49:58.000Z",
+      "article_id": "https://networm.me/2026/02/08/unity-startup-profiler/",
+      "article_link": "https://networm.me/2026/02/08/unity-startup-profiler/"
+    },
+    "https://mitchellh.com/feed.xml": {
+      "published_at": "2026-02-05T00:00:00.000Z",
+      "article_id": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "article_link": "https://mitchellh.com/writing/my-ai-adoption-journey"
     }
   }
 }
