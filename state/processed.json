@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T13:38:52.000Z",
+  "updated_at": "2026-03-25T14:35:29.010Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-25T09:40:41.000Z",
@@ -67,9 +67,9 @@
       "article_link": "http://www.phodal.com/blog/ai-coded-project-governance-evolution-250k-lines/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
-      "published_at": "2026-03-24T14:00:00.000Z",
-      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112159",
-      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159"
+      "published_at": "2026-03-25T14:00:00.000Z",
+      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112165",
+      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165"
     },
     "https://shkspr.mobi/blog/feed/": {
       "published_at": "2026-03-24T12:34:27.000Z",
@@ -195,6 +195,46 @@
       "published_at": "2026-03-20T00:00:00.000Z",
       "article_id": "https://baoyu.io/blog/ai-learning-priority-quadrant",
       "article_link": "https://baoyu.io/blog/ai-learning-priority-quadrant"
+    },
+    "https://lucumr.pocoo.org/feed.atom": {
+      "published_at": "2026-03-20T00:00:00.000Z",
+      "article_id": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "article_link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/"
+    },
+    "https://wiki.eryajf.net/rss.xml": {
+      "published_at": "2026-03-19T22:42:43.000Z",
+      "article_id": "https://wiki.eryajf.net/pages/5f9192/",
+      "article_link": "https://wiki.eryajf.net/pages/5f9192/"
+    },
+    "https://markonreview.com/rss/": {
+      "published_at": "2026-03-19T09:23:09.000Z",
+      "article_id": "69bbbbd6c4dec859d2a51b0d",
+      "article_link": "https://markonreview.com/2026/03/19/markon-review-express-weekly-34/"
+    },
+    "https://dynomight.net/feed.xml": {
+      "published_at": "2026-03-18T00:00:00.000Z",
+      "article_id": "https://dynomight.net/coffee",
+      "article_link": "https://dynomight.net/coffee/"
+    },
+    "https://xeiaso.net/blog.rss": {
+      "published_at": "2026-03-18T00:00:00.000Z",
+      "article_id": "https://xeiaso.net/notes/2026/dns-fight/",
+      "article_link": "https://xeiaso.net/notes/2026/dns-fight/"
+    },
+    "https://www.physixfan.com/feed/": {
+      "published_at": "2026-03-17T14:13:37.000Z",
+      "article_id": "https://www.physixfan.com/?p=5178",
+      "article_link": "https://www.physixfan.com/cengjingyiweishijiedefazhanyijingquyutingzhile-nazhidaoxianzaiyijingwufayuce10nianhoushijiehuia/"
+    },
+    "https://anotherdayu.com/feed/": {
+      "published_at": "2026-03-17T10:47:00.000Z",
+      "article_id": "https://anotherdayu.com/5823/",
+      "article_link": "https://anotherdayu.com/5823/"
+    },
+    "https://www.zhangxinxu.com/wordpress/feed/": {
+      "published_at": "2026-03-17T08:25:58.000Z",
+      "article_id": "https://www.zhangxinxu.com/wordpress/?p=12112",
+      "article_link": "https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/"
     }
   }
 }
