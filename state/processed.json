@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T17:29:18.987Z",
+  "updated_at": "2026-03-25T18:28:32.018Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-25T09:40:41.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-25/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-25T16:31:15.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47519625",
-      "article_link": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict"
+      "published_at": "2026-03-25T17:43:17.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47520717",
+      "article_link": "https://www.bbc.co.uk/news/articles/c747x7gz249o"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-25T02:09:00.000Z",
@@ -310,6 +310,31 @@
       "published_at": "2026-03-11T06:49:58.000Z",
       "article_id": "tag:blog.codingnow.com,2026://1.1328",
       "article_link": "https://blog.codingnow.com/2026/03/soluna_external_lib.html"
+    },
+    "https://ameow.xyz/feed/categories/weekly.xml": {
+      "published_at": "2026-03-08T16:33:29.000Z",
+      "article_id": "/archives/weekly-094",
+      "article_link": "https://ameow.xyz/archives/weekly-094"
+    },
+    "https://terriblesoftware.org/feed/": {
+      "published_at": "2026-03-03T12:22:26.000Z",
+      "article_id": "https://terriblesoftware.org/?p=523",
+      "article_link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
+    },
+    "https://micahflee.com/rss/": {
+      "published_at": "2026-03-01T21:21:35.000Z",
+      "article_id": "69a4a92bda9cdf00013f1ca5",
+      "article_link": "https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/"
+    },
+    "https://www.feidaoboke.com/feed.php": {
+      "published_at": "2026-02-27T08:36:29.000Z",
+      "article_id": "https://www.feidaoboke.com/post/read-xian-de-wan-xiao.html",
+      "article_link": "https://www.feidaoboke.com/post/read-xian-de-wan-xiao.html"
+    },
+    "https://scottyeung.top/atom.xml": {
+      "published_at": "2026-02-26T03:50:16.000Z",
+      "article_id": "https://scottyeung.top/2026/ccpclean/",
+      "article_link": "https://scottyeung.top/2026/ccpclean/"
     }
   }
 }
