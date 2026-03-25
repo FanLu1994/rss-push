@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T15:34:41.381Z",
+  "updated_at": "2026-03-25T16:34:52.912Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-25T09:40:41.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-25/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-25T12:49:14.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47516650",
-      "article_link": "https://ente.com/blog/ensu/"
+      "published_at": "2026-03-25T16:07:12.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47519308",
+      "article_link": "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-25T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://claude.com/blog/dispatch-and-computer-use"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-25T13:00:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3105775",
-      "article_link": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/"
+      "published_at": "2026-03-25T16:10:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3105950",
+      "article_link": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
