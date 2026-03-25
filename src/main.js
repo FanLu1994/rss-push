@@ -4,7 +4,7 @@ import { loadEnv, loadFeeds } from "./config.js";
 import { renderBatch, chunkTelegram } from "./render.js";
 import { fetchAllFeeds } from "./rss.js";
 import { sendTelegramMessages } from "./telegram.js";
-import { isNewArticle, loadState, markProcessed, saveState, trimState } from "./state.js";
+import { isNewArticle, loadState, markProcessed, saveState } from "./state.js";
 
 function sortByPublishedDesc(articles) {
   return articles.sort((a, b) => {
@@ -33,7 +33,7 @@ async function main() {
   }
 
   const all = feedResults.flatMap((r) => r.articles);
-  const fresh = sortByPublishedDesc(all).filter((a) => isNewArticle(state, a.id)).slice(0, env.maxItems);
+  const fresh = sortByPublishedDesc(all).filter((a) => isNewArticle(state, a)).slice(0, env.maxItems);
 
   if (fresh.length === 0) {
     console.log("[main] no new articles");
@@ -55,8 +55,7 @@ async function main() {
     return;
   }
 
-  markProcessed(state, fresh.map((x) => x.id));
-  trimState(state, env.stateMaxItems);
+  markProcessed(state, fresh);
   await saveState(cwd, state);
 
   console.log(`[main] pushed ${fresh.length} new article(s), message chunks=${chunks.length}`);

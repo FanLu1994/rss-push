@@ -3,7 +3,7 @@
 基于 GitHub Actions 的 RSS 增量聚合与 Telegram 推送骨架：
 
 1. 定时抓取 RSS 源（支持 `subscriptions.opml` 和 `feeds.yaml`）。
-2. 根据 `state/processed.json` 去重，仅处理新文章。
+2. 根据 `state/processed.json` 中每个 RSS 的上次推送游标过滤，仅处理更新文章。
 3. 调用 LLM 生成中文简介（失败自动降级到原摘要）。
 4. 汇总消息并通过 Telegram Bot 发送。
 
@@ -18,7 +18,7 @@
 - `src/config.js`: 配置与 OPML/YAML 源加载
 - `subscriptions.opml`: OPML 订阅样例
 - `feeds.yaml`: YAML 订阅样例（可选）
-- `state/processed.json`: 已处理文章状态
+- `state/processed.json`: 每个 RSS 的上次推送游标
 - `.github/workflows/rss-push.yml`: 定时任务
 
 ## 本地运行

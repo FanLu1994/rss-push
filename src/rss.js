@@ -43,6 +43,7 @@ export async function fetchFeedArticles(feed, timeoutMs) {
     const items = Array.isArray(parsed.items) ? parsed.items : [];
     return items.map((item) => ({
       id: buildArticleId(item, feed.name ?? feed.url),
+      feed_url: feed.url,
       source: feed.name ?? parsed.title ?? feed.url,
       title: item.title ?? "(untitled)",
       link: item.link ?? "",
