@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T20:19:05.186Z",
+  "updated_at": "2026-03-25T21:18:37.937Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-25T09:40:41.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-25/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-25T19:36:39.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47522112",
-      "article_link": "https://www.twz.com/air/drone-attack-on-parked-u-s-army-black-hawk-in-iraq-a-harbinger-of-whats-to-come"
+      "published_at": "2026-03-25T20:55:36.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47523106",
+      "article_link": "https://kdwalmsley.substack.com/p/on-sale-now-china-is-mass-producing"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-25T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-25T17:15:50.000Z",
-      "article_id": "https://techcrunch.com/?p=3106026",
-      "article_link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/"
+      "published_at": "2026-03-25T20:38:45.000Z",
+      "article_id": "https://techcrunch.com/?p=3106221",
+      "article_link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -395,6 +395,31 @@
       "published_at": "2026-01-27T16:00:00.000Z",
       "article_id": "https://luyuhuang.tech/2026/01/28/programmer-class.html",
       "article_link": "https://luyuhuang.tech/2026/01/28/programmer-class.html"
+    },
+    "https://blog.laoda.de/rss.xml": {
+      "published_at": "2026-01-20T07:12:49.000Z",
+      "article_id": "/archives/docker-compose-install-convertx",
+      "article_link": "https://blog.laoda.de/archives/docker-compose-install-convertx"
+    },
+    "https://overreacted.io/rss.xml": {
+      "published_at": "2026-01-18T00:00:00.000Z",
+      "article_id": "https://overreacted.io/a-social-filesystem/",
+      "article_link": "https://overreacted.io/a-social-filesystem/"
+    },
+    "https://www.pseudoyu.com/feed.xml": {
+      "published_at": "2026-01-13T23:17:00.000Z",
+      "article_id": "https://www.pseudoyu.com/posts/weekly_review_105",
+      "article_link": "https://www.pseudoyu.com/posts/weekly_review_105"
+    },
+    "https://blog.mute-g.com/index.xml": {
+      "published_at": "2026-01-08T14:35:01.000Z",
+      "article_id": "https://blog.mute-g.com/post/dotnet/wpf/enum-editor.html",
+      "article_link": "https://blog.mute-g.com/post/dotnet/wpf/enum-editor.html"
+    },
+    "https://v2ex-create.nexmm.com/rss.xml": {
+      "published_at": "2026-01-07T00:00:00.000Z",
+      "article_id": "https://v2ex-create.nexmm.com/blog/2026-01-07/",
+      "article_link": "https://v2ex-create.nexmm.com/blog/2026-01-07/"
     }
   }
 }
