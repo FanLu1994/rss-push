@@ -4,9 +4,9 @@ import process from "node:process";
 import YAML from "yaml";
 
 const DEFAULTS = {
-  maxItems: 20,
+  maxItems: 10,
   rssFetchTimeoutMs: 15_000,
-  aiTimeoutMs: 30_000,
+  aiTimeoutMs: 15_000,
   stateMaxItems: 5000,
   opmlFile: "subscriptions.opml",
 };
