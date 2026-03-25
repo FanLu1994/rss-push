@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T14:35:29.010Z",
+  "updated_at": "2026-03-25T15:34:41.381Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-25T09:40:41.000Z",
@@ -235,6 +235,56 @@
       "published_at": "2026-03-17T08:25:58.000Z",
       "article_id": "https://www.zhangxinxu.com/wordpress/?p=12112",
       "article_link": "https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/"
+    },
+    "https://matklad.github.io/feed.xml": {
+      "published_at": "2026-03-19T00:00:00.000Z",
+      "article_id": "https://matklad.github.io/2026/03/19/consensus-board-game",
+      "article_link": "https://matklad.github.io/2026/03/19/consensus-board-game.html"
+    },
+    "https://onevcat.com/feed.xml": {
+      "published_at": "2026-03-16T14:30:00.000Z",
+      "article_id": "https://onevcat.com/2026/03/jj-for-agent-era/",
+      "article_link": "https://onevcat.com/2026/03/jj-for-agent-era/"
+    },
+    "https://wechat2rss.xlab.app/feed/18cb4f6ce17f4be6e5062dfb47a6036fe9c36a25.xml": {
+      "published_at": "2026-03-16T10:09:00.000Z",
+      "article_id": "https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247484081&idx=1&sn=fd41f4243e18e6e51df8681d23dcafaa",
+      "article_link": "https://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247484081&idx=1&sn=fd41f4243e18e6e51df8681d23dcafaa"
+    },
+    "https://vrast.cn/atom.xml": {
+      "published_at": "2026-03-16T07:49:04.000Z",
+      "article_id": "https://vrast.cn/posts/57404/",
+      "article_link": "https://vrast.cn/posts/57404/"
+    },
+    "https://1q43.blog/feed/": {
+      "published_at": "2026-03-16T03:10:00.000Z",
+      "article_id": "https://1q43.blog/?p=12270",
+      "article_link": "https://1q43.blog/post/12270/"
+    },
+    "https://paugram.com/feed/": {
+      "published_at": "2026-03-16T03:03:00.000Z",
+      "article_id": "https://paugram.com/essay/street-borrowing-scam-warning.html",
+      "article_link": "https://paugram.com/essay/street-borrowing-scam-warning.html"
+    },
+    "https://yuanchaofa.com/rss.xml": {
+      "published_at": "2026-03-14T22:00:00.000Z",
+      "article_id": "https://yuanchaofa.com/post/harness-engineering-for-ai-agents",
+      "article_link": "https://yuanchaofa.com/post/harness-engineering-for-ai-agents"
+    },
+    "https://song.al/feed.xml": {
+      "published_at": "2026-03-14T04:22:31.000Z",
+      "article_id": "https://song.al/onsen",
+      "article_link": "https://song.al/onsen"
+    },
+    "https://ddadaal.me/rss.xml": {
+      "published_at": "2026-03-14T03:53:00.000Z",
+      "article_id": "https://ddadaal.me/articles/subgen-translate/cn",
+      "article_link": "https://ddadaal.me/articles/subgen-translate/cn"
+    },
+    "https://ssshooter.com/rss.xml": {
+      "published_at": "2026-03-12T10:43:14.000Z",
+      "article_id": "https://ssshooter.com/2026-03-12-diary/",
+      "article_link": "https://ssshooter.com/2026-03-12-diary/"
     }
   }
 }
