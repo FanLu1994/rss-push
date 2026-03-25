@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T11:22:36.388Z",
+  "updated_at": "2026-03-25T12:27:04.999Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-25T09:40:41.000Z",
@@ -125,6 +125,41 @@
       "published_at": "2026-03-23T12:00:00.000Z",
       "article_id": "https://idiallo.com/blog/the-n-war-of-the-decade?src=feed",
       "article_link": "https://idiallo.com/blog/the-n-war-of-the-decade?src=feed"
+    },
+    "https://www.iyouhun.com/rss.php": {
+      "published_at": "2026-03-23T01:36:00.000Z",
+      "article_id": "https://www.iyouhun.com/post-311.html",
+      "article_link": "https://www.iyouhun.com/post-311.html"
+    },
+    "https://www.abortretry.fail/feed": {
+      "published_at": "2026-03-23T00:14:27.000Z",
+      "article_id": "https://www.abortretry.fail/p/hitachi-ltd-part-i",
+      "article_link": "https://www.abortretry.fail/p/hitachi-ltd-part-i"
+    },
+    "https://weekly.tw93.fun/rss.xml": {
+      "published_at": "2026-03-23T00:00:00.000Z",
+      "article_id": "https://weekly.tw93.fun/posts/261/",
+      "article_link": "https://weekly.tw93.fun/posts/261/"
+    },
+    "https://aigc-weekly.agi.li/rss.xml": {
+      "published_at": "2026-03-22T12:00:00.000Z",
+      "article_id": "https://aigc-weekly.agi.li/weekly/Y26W11",
+      "article_link": "https://aigc-weekly.agi.li/weekly/Y26W11"
+    },
+    "https://www.luozhiyun.com/feed": {
+      "published_at": "2026-03-22T09:51:12.000Z",
+      "article_id": "https://www.luozhiyun.com/?p=915",
+      "article_link": "https://www.luozhiyun.com/archives/915"
+    },
+    "https://z.arlmy.me/atom.xml": {
+      "published_at": "2026-03-22T06:10:46.000Z",
+      "article_id": "https://z.arlmy.me/posts/Note/Note_JennyOdell_HowToDoNothing/",
+      "article_link": "https://z.arlmy.me/posts/Note/Note_JennyOdell_HowToDoNothing/"
+    },
+    "https://evanhahn.com/blog/index.xml": {
+      "published_at": "2026-03-22T00:00:00.000Z",
+      "article_id": "https://evanhahn.com/random-programming-language/",
+      "article_link": "https://evanhahn.com/random-programming-language/"
     }
   }
 }
