@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T04:54:17.579Z",
+  "updated_at": "2026-03-26T05:38:49.795Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-25/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-26T00:46:31.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47525378",
-      "article_link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259"
+      "published_at": "2026-03-26T04:28:37.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47526642",
+      "article_link": "https://www.telegraph.co.uk/news/2026/03/23/squirrel-seen-vaping-in-london-park/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-25T02:09:00.000Z",
@@ -590,6 +590,36 @@
       "published_at": "2022-05-09T14:35:51.000Z",
       "article_id": "https://catbro666.github.io/posts/4921760e/",
       "article_link": "https://catbro666.github.io/posts/4921760e/"
+    },
+    "https://www.ikanins.com/feed/": {
+      "published_at": "2025-07-04T06:43:17.000Z",
+      "article_id": "https://www.ikanins.com/?p=42222",
+      "article_link": "https://www.ikanins.com/k2slt1/"
+    },
+    "https://meowshiba.com/feed": {
+      "published_at": "2024-10-01T06:02:44.000Z",
+      "article_id": "https://meowshiba.com/?p=1920",
+      "article_link": "https://meowshiba.com/pnw-columbia-gorge-dog-mountain-wild-flowers-hiking-trip/?utm_source=rss&utm_medium=rss&utm_campaign=pnw-columbia-gorge-dog-mountain-wild-flowers-hiking-trip"
+    },
+    "https://moeyua.com/atom.xml": {
+      "published_at": "2023-12-28T17:16:37.000Z",
+      "article_id": "https://blog.moeyua.com/posts/my-defaults-2023/",
+      "article_link": "https://blog.moeyua.com/posts/my-defaults-2023/"
+    },
+    "http://frankorz.com/atom.xml": {
+      "published_at": "2022-01-18T14:01:44.000Z",
+      "article_id": "http://frankorz.com/2022/01/18/rust-study-resource/",
+      "article_link": "http://frankorz.com/2022/01/18/rust-study-resource/"
+    },
+    "http://pandaqr.github.io/feed.xml": {
+      "published_at": "2021-07-03T00:00:00.000Z",
+      "article_id": "http://pandaqr.github.io/2021/07/03/%E8%AF%81%E6%8D%AE.html",
+      "article_link": "http://pandaqr.github.io/2021/07/03/%E8%AF%81%E6%8D%AE.html"
+    },
+    "https://cn.thelynan.com/feed.xml": {
+      "published_at": "",
+      "article_id": "https://cn.thelynan.com/a-mini-trip-in-macau/",
+      "article_link": "https://cn.thelynan.com/a-mini-trip-in-macau/"
     }
   }
 }
