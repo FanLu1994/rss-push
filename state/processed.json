@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T22:12:33.311Z",
+  "updated_at": "2026-03-26T23:14:01.252Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-26/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-26T20:58:04.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47535626",
-      "article_link": "https://github.com/ViciousSquid/Fio"
+      "published_at": "2026-03-26T22:41:25.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47536761",
+      "article_link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-26T02:28:00.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/t26001/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-03-25T23:20:24.000Z",
-      "article_id": "https://tonybai.com/?p=6102",
-      "article_link": "https://tonybai.com/2026/03/26/rust-project-perspectives-on-ai/"
+      "published_at": "2026-03-26T23:09:11.000Z",
+      "article_id": "https://tonybai.com/?p=6106",
+      "article_link": "https://tonybai.com/2026/03/27/function-type-inference-should-work-in-all-assignment-contexts/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-03-24T19:50:00.000Z",
@@ -92,9 +92,9 @@
       "article_link": "https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html"
     },
     "https://www.joanwestenberg.com/rss/": {
-      "published_at": "2026-03-24T05:33:06.000Z",
-      "article_id": "69c2216ccb8111000161ee7c",
-      "article_link": "https://www.joanwestenberg.com/tread-carefully-because-you-tread-on-my-fucks/"
+      "published_at": "2026-03-26T22:54:35.000Z",
+      "article_id": "69c5b8f0413f17000195db4c",
+      "article_link": "https://www.joanwestenberg.com/members-only-on-cathedral-thinking/"
     },
     "https://susam.net/feed.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -122,9 +122,9 @@
       "article_link": "https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion"
     },
     "https://idiallo.com/feed.rss": {
-      "published_at": "2026-03-23T12:00:00.000Z",
-      "article_id": "https://idiallo.com/blog/the-n-war-of-the-decade?src=feed",
-      "article_link": "https://idiallo.com/blog/the-n-war-of-the-decade?src=feed"
+      "published_at": "2026-03-26T23:11:46.000Z",
+      "article_id": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed",
+      "article_link": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed"
     },
     "https://www.iyouhun.com/rss.php": {
       "published_at": "2026-03-26T02:25:09.000Z",
