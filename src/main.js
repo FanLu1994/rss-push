@@ -16,6 +16,15 @@ function sortByPublishedDesc(articles) {
   });
 }
 
+function pickLatestArticlePerFeed(feedResults) {
+  return feedResults
+    .map((result) => {
+      const articles = sortByPublishedDesc([...result.articles]);
+      return articles[0] ?? null;
+    })
+    .filter(Boolean);
+}
+
 async function summarizeArticles(articles, env, concurrency = 3) {
   const results = new Array(articles.length);
   let nextIndex = 0;
@@ -57,8 +66,10 @@ async function main() {
     }
   }
 
-  const all = feedResults.flatMap((r) => r.articles);
-  const fresh = sortByPublishedDesc(all).filter((a) => isNewArticle(state, a)).slice(0, env.maxItems);
+  const latestArticles = pickLatestArticlePerFeed(feedResults);
+  const fresh = sortByPublishedDesc(latestArticles)
+    .filter((a) => isNewArticle(state, a))
+    .slice(0, env.maxItems);
 
   if (fresh.length === 0) {
     console.log("[main] no new articles");
