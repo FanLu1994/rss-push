@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T01:42:45.794Z",
+  "updated_at": "2026-03-26T03:14:20.204Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-26T00:30:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3106190",
-      "article_link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/"
+      "published_at": "2026-03-26T02:46:48.000Z",
+      "article_id": "https://techcrunch.com/?p=3106410",
+      "article_link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -127,9 +127,9 @@
       "article_link": "https://idiallo.com/blog/the-n-war-of-the-decade?src=feed"
     },
     "https://www.iyouhun.com/rss.php": {
-      "published_at": "2026-03-23T01:36:00.000Z",
-      "article_id": "https://www.iyouhun.com/post-311.html",
-      "article_link": "https://www.iyouhun.com/post-311.html"
+      "published_at": "2026-03-26T02:25:09.000Z",
+      "article_id": "https://www.iyouhun.com/post-312.html",
+      "article_link": "https://www.iyouhun.com/post-312.html"
     },
     "https://www.abortretry.fail/feed": {
       "published_at": "2026-03-23T00:14:27.000Z",
@@ -500,6 +500,46 @@
       "published_at": "2025-10-18T06:51:16.000Z",
       "article_id": "https://flandre-scarlet.moe/blog/?p=2483",
       "article_link": "https://flandre-scarlet.moe/blog/2483/"
+    },
+    "https://v2ex-share.nexmm.com/rss.xml": {
+      "published_at": "2025-09-18T00:00:00.000Z",
+      "article_id": "7ef9730a613841f100558b92af1c77b70c9f62b64e8b8ceb63cfc9bb217d0bc8",
+      "article_link": ""
+    },
+    "https://www.liwenzhou.com/index.xml": {
+      "published_at": "2025-08-30T08:37:21.000Z",
+      "article_id": "https://www.liwenzhou.com/posts/Go/cobra/",
+      "article_link": "https://www.liwenzhou.com/posts/Go/cobra/"
+    },
+    "https://www.xuanyusong.com/feed": {
+      "published_at": "2025-08-06T11:58:21.000Z",
+      "article_id": "https://www.xuanyusong.com/?p=5196",
+      "article_link": "https://www.xuanyusong.com/archives/5196"
+    },
+    "https://blog.star7th.com/feed": {
+      "published_at": "2025-07-28T05:26:13.000Z",
+      "article_id": "https://blog.star7th.com/?p=2622",
+      "article_link": "https://blog.star7th.com/2025/07/2622.html"
+    },
+    "https://bigeagle.me/index.xml": {
+      "published_at": "2025-07-13T00:00:00.000Z",
+      "article_id": "https://bigeagle.me/2025/07/kimi-k2/",
+      "article_link": "https://bigeagle.me/2025/07/kimi-k2/"
+    },
+    "https://fav0.com/feed.xml": {
+      "published_at": "2025-03-16T00:00:00.000Z",
+      "article_id": "https://fav0.com/posts/2025/029",
+      "article_link": "https://fav0.com/posts/2025/029"
+    },
+    "https://idealclover.top/feed/category/blog/": {
+      "published_at": "2025-03-07T12:00:00.000Z",
+      "article_id": "https://idealclover.top/archives/643/",
+      "article_link": "https://idealclover.top/archives/643/"
+    },
+    "https://atjason.com/atom.xml": {
+      "published_at": "2025-03-03T14:00:00.000Z",
+      "article_id": "https://atjason.com/daily/2025-03-03.html",
+      "article_link": "https://atjason.com/daily/2025-03-03.html"
     }
   }
 }
