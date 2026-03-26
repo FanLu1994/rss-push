@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-26T00:50:40.884Z",
+  "updated_at": "2026-03-26T01:42:45.794Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
-      "published_at": "2026-03-25T09:40:41.000Z",
-      "article_id": "https://ai.hubtoday.app//2026-03/2026-03-25/",
-      "article_link": "https://ai.hubtoday.app//2026-03/2026-03-25/"
+      "published_at": "2026-03-26T09:39:42.000Z",
+      "article_id": "https://ai.hubtoday.app//2026-03/2026-03-26/",
+      "article_link": "https://ai.hubtoday.app//2026-03/2026-03-26/"
     },
     "https://decohack.com/feed/": {
       "published_at": "2026-03-25T07:53:09.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-25/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-25T23:30:55.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47524719",
-      "article_link": "https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780"
+      "published_at": "2026-03-26T00:46:31.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47525378",
+      "article_link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-25T02:09:00.000Z",
@@ -480,6 +480,26 @@
       "published_at": "2025-12-03T05:05:35.366Z",
       "article_id": "https://www.velasx.com/am/6462",
       "article_link": "https://www.velasx.com/am/6462"
+    },
+    "https://blog.lilydjwg.me/feed?code=c6f56c4214621ab98b86acbcae6b4405": {
+      "published_at": "2025-11-11T07:14:52.000Z",
+      "article_id": "https://blog.lilydjwg.me/posts/216954",
+      "article_link": "https://blog.lilydjwg.me/posts/216954.html"
+    },
+    "https://hugotunius.se/feed.xml": {
+      "published_at": "2025-10-25T23:00:00.000Z",
+      "article_id": "https://hugotunius.se/2025/10/26/claude-teach-me-something",
+      "article_link": "https://hugotunius.se/2025/10/26/claude-teach-me-something.html"
+    },
+    "https://www.geoffreylitt.com/feed.xml": {
+      "published_at": "2025-10-24T14:59:00.000Z",
+      "article_id": "https://geoffreylitt.com/2025/10/24/code-like-a-surgeon.html",
+      "article_link": "https://geoffreylitt.com/2025/10/24/code-like-a-surgeon.html"
+    },
+    "https://flandre-scarlet.moe/blog/feed/": {
+      "published_at": "2025-10-18T06:51:16.000Z",
+      "article_id": "https://flandre-scarlet.moe/blog/?p=2483",
+      "article_link": "https://flandre-scarlet.moe/blog/2483/"
     }
   }
 }
