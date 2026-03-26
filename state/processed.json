@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T03:14:20.204Z",
+  "updated_at": "2026-03-26T04:54:17.579Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -540,6 +540,56 @@
       "published_at": "2025-03-03T14:00:00.000Z",
       "article_id": "https://atjason.com/daily/2025-03-03.html",
       "article_link": "https://atjason.com/daily/2025-03-03.html"
+    },
+    "https://kill-the-newsletter.com/feeds/xcn3ldknjdme7yv7.xml": {
+      "published_at": "2025-02-23T13:10:14.433Z",
+      "article_id": "urn:kill-the-newsletter:kx3za4ms72mjhoe72iom",
+      "article_link": "https://kill-the-newsletter.com/feeds/xcn3ldknjdme7yv7/entries/kx3za4ms72mjhoe72iom.html"
+    },
+    "https://blog.mikeoperfect.com/atom.xml": {
+      "published_at": "2025-02-11T06:32:11.000Z",
+      "article_id": "https://blog.mikeoperfect.com/posts/25211/",
+      "article_link": "https://blog.mikeoperfect.com/posts/25211/"
+    },
+    "https://wzyboy.im/feed.xml": {
+      "published_at": "2024-06-27T18:09:00.000Z",
+      "article_id": "urn:uuid:89589261-7a82-3c91-a215-8b6a205e03d8",
+      "article_link": "https://wzyboy.im/post/1580.html"
+    },
+    "https://blog.k8s.li/atom.xml": {
+      "published_at": "2024-06-13T16:00:00.000Z",
+      "article_id": "https://blog.k8s.li/travel-in-june.html",
+      "article_link": "https://blog.k8s.li/travel-in-june.html"
+    },
+    "https://tech.kujiale.com/rss/": {
+      "published_at": "2024-06-06T11:24:16.000Z",
+      "article_id": "666198668f9ebd00018ae2f5",
+      "article_link": "https://tech.kujiale.com/ku-jia-le-guo-ji-hua-ye-wu-duo-yu-yan-bao-zhang-shi-jian/"
+    },
+    "https://feed.cnblogs.com/blog/u/567504/rss/": {
+      "published_at": "2024-04-15T13:17:00.000Z",
+      "article_id": "https://www.cnblogs.com/poloyy/p/18136934",
+      "article_link": "https://www.cnblogs.com/poloyy/p/18136934"
+    },
+    "https://www.dongwm.com/atom.xml": {
+      "published_at": "2023-05-16T00:00:00.000Z",
+      "article_id": "204",
+      "article_link": "https://www.dongwm.com/post/stable-diffusion-controlnet/"
+    },
+    "https://coolshell.cn/feed": {
+      "published_at": "2023-05-08T09:52:06.000Z",
+      "article_id": "https://coolshell.cn/?p=22422",
+      "article_link": "https://coolshell.cn/articles/22422.html"
+    },
+    "https://www.maxieewong.com/atom.xml": {
+      "published_at": "2023-02-22T05:15:01.000Z",
+      "article_id": "https://www.maxieewong.com/Maeiee的2023.html?ts=2023-02-22T05:15:01Z",
+      "article_link": "https://www.maxieewong.com/Maeiee的2023.html?ts=2023-02-22T05:15:01Z"
+    },
+    "https://catbro666.github.io/atom.xml": {
+      "published_at": "2022-05-09T14:35:51.000Z",
+      "article_id": "https://catbro666.github.io/posts/4921760e/",
+      "article_link": "https://catbro666.github.io/posts/4921760e/"
     }
   }
 }
