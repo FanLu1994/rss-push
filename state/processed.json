@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T15:36:53.068Z",
+  "updated_at": "2026-03-26T16:34:49.468Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-26/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-26T14:51:17.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47531184",
-      "article_link": "https://spectrum.ieee.org/doctorow-interoperability"
+      "published_at": "2026-03-26T15:48:40.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47531967",
+      "article_link": "https://futuresearch.ai/blog/litellm-attack-transcript/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-26T02:28:00.000Z",
@@ -67,9 +67,9 @@
       "article_link": "http://www.phodal.com/blog/ai-coded-project-governance-evolution-250k-lines/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
-      "published_at": "2026-03-25T14:00:00.000Z",
-      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112165",
-      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165"
+      "published_at": "2026-03-26T14:00:00.000Z",
+      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112167",
+      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167"
     },
     "https://shkspr.mobi/blog/feed/": {
       "published_at": "2026-03-26T12:34:52.000Z",
