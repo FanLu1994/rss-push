@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T19:31:09.606Z",
+  "updated_at": "2026-03-26T20:16:48.442Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-26/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-26T18:38:50.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47534086",
-      "article_link": "https://gab.com/markofafreeman/posts/116290669616400528"
+      "published_at": "2026-03-26T19:48:05.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47534848",
+      "article_link": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-26T02:28:00.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681025&idx=1&sn=442177fc00306f3ce79d7438f5adccbc"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-26T19:26:38.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42810",
-      "article_link": "https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/"
+      "published_at": "2026-03-26T19:35:00.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42811",
+      "article_link": "https://daringfireball.net/linked/2026/03/24/ios-264"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-03-26T18:34:02.000Z",
@@ -52,9 +52,9 @@
       "article_link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
     },
     "https://www.johndcook.com/blog/feed/": {
-      "published_at": "2026-03-26T14:33:37.000Z",
-      "article_id": "https://www.johndcook.com/blog/?p=246924",
-      "article_link": "https://www.johndcook.com/blog/2026/03/26/table-precision/"
+      "published_at": "2026-03-26T20:05:06.000Z",
+      "article_id": "https://www.johndcook.com/blog/?p=246925",
+      "article_link": "https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/"
     },
     "https://buttondown.com/hillelwayne/rss": {
       "published_at": "2026-03-24T14:38:06.000Z",
