@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T18:31:19.656Z",
+  "updated_at": "2026-03-26T19:31:09.606Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-26/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-26T17:29:58.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47533283",
-      "article_link": "https://colibri.social/"
+      "published_at": "2026-03-26T18:38:50.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47534086",
+      "article_link": "https://gab.com/markofafreeman/posts/116290669616400528"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-26T02:28:00.000Z",
@@ -22,14 +22,14 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681025&idx=1&sn=442177fc00306f3ce79d7438f5adccbc"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-26T18:10:22.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42808",
-      "article_link": "https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share"
+      "published_at": "2026-03-26T19:26:38.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42810",
+      "article_link": "https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-26T18:23:31.000Z",
-      "article_id": "https://techcrunch.com/?p=3106568",
-      "article_link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/"
+      "published_at": "2026-03-26T18:34:02.000Z",
+      "article_id": "https://techcrunch.com/?p=3106537",
+      "article_link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
