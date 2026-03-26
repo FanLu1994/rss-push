@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T11:25:48.798Z",
+  "updated_at": "2026-03-26T13:38:27.329Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -72,9 +72,9 @@
       "article_link": "https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165"
     },
     "https://shkspr.mobi/blog/feed/": {
-      "published_at": "2026-03-24T12:34:27.000Z",
-      "article_id": "https://shkspr.mobi/blog/?p=69157",
-      "article_link": "https://shkspr.mobi/blog/2026/03/book-review-if-we-cannot-go-at-the-speed-of-light-by-kim-choyeop/"
+      "published_at": "2026-03-26T12:34:52.000Z",
+      "article_id": "https://shkspr.mobi/blog/?p=69190",
+      "article_link": "https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/"
     },
     "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml": {
       "published_at": "2026-03-24T10:33:00.000Z",
