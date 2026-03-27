@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T08:24:46.561Z",
+  "updated_at": "2026-03-27T09:25:52.552Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-27T10:39:36.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-27/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-27T07:12:26.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47539825",
-      "article_link": "https://micahkepe.com/blog/jsongrep/"
+      "published_at": "2026-03-27T08:55:43.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47540383",
+      "article_link": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-26T02:28:00.000Z",
