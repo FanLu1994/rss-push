@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T23:14:01.252Z",
+  "updated_at": "2026-03-27T00:50:47.161Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-26/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-26T22:41:25.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47536761",
-      "article_link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/"
+      "published_at": "2026-03-26T23:33:53.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47537228",
+      "article_link": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-26T02:28:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://randsinrepose.com/guides/apple-charging-guide.html"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-26T21:50:10.000Z",
-      "article_id": "https://techcrunch.com/?p=3106729",
-      "article_link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/"
+      "published_at": "2026-03-26T23:47:56.000Z",
+      "article_id": "https://techcrunch.com/?p=3106767",
+      "article_link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
