@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T19:21:57.555Z",
+  "updated_at": "2026-03-27T20:17:27.958Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-27T10:39:36.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-27/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-27T18:51:06.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47546732",
-      "article_link": "https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/"
+      "published_at": "2026-03-27T19:15:19.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47547009",
+      "article_link": "https://lr0.org/blog/p/macos/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-26T02:28:00.000Z",
@@ -317,9 +317,9 @@
       "article_link": "https://ameow.xyz/archives/weekly-094"
     },
     "https://terriblesoftware.org/feed/": {
-      "published_at": "2026-03-03T12:22:26.000Z",
-      "article_id": "https://terriblesoftware.org/?p=523",
-      "article_link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
+      "published_at": "2026-03-27T19:35:32.000Z",
+      "article_id": "https://terriblesoftware.org/?p=559",
+      "article_link": "https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/"
     },
     "https://micahflee.com/rss/": {
       "published_at": "2026-03-01T21:21:35.000Z",
