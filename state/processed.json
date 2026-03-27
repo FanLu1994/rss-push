@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T00:50:47.161Z",
+  "updated_at": "2026-03-27T01:42:56.987Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-26T09:39:42.000Z",
@@ -22,14 +22,14 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681025&idx=1&sn=442177fc00306f3ce79d7438f5adccbc"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-26T20:20:49.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42812",
-      "article_link": "https://randsinrepose.com/guides/apple-charging-guide.html"
+      "published_at": "2026-03-27T00:56:39.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42813",
+      "article_link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-26T23:47:56.000Z",
-      "article_id": "https://techcrunch.com/?p=3106767",
-      "article_link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+      "published_at": "2026-03-27T01:18:38.000Z",
+      "article_id": "https://techcrunch.com/?p=3106880",
+      "article_link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -620,6 +620,11 @@
       "published_at": "",
       "article_id": "https://cn.thelynan.com/a-mini-trip-in-macau/",
       "article_link": "https://cn.thelynan.com/a-mini-trip-in-macau/"
+    },
+    "https://echosoar.github.io/weekly/atom.xml": {
+      "published_at": "2026-03-25T00:00:00.000Z",
+      "article_id": "https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html",
+      "article_link": "https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html"
     }
   }
 }
