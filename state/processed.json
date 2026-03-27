@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T11:22:30.908Z",
+  "updated_at": "2026-03-27T12:24:59.850Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-27T10:39:36.000Z",
@@ -52,9 +52,9 @@
       "article_link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
     },
     "https://www.johndcook.com/blog/feed/": {
-      "published_at": "2026-03-26T20:05:06.000Z",
-      "article_id": "https://www.johndcook.com/blog/?p=246925",
-      "article_link": "https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/"
+      "published_at": "2026-03-27T11:33:04.000Z",
+      "article_id": "https://www.johndcook.com/blog/?p=246928",
+      "article_link": "https://www.johndcook.com/blog/2026/03/27/complex-argument/"
     },
     "https://buttondown.com/hillelwayne/rss": {
       "published_at": "2026-03-24T14:38:06.000Z",
@@ -122,9 +122,9 @@
       "article_link": "https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion"
     },
     "https://idiallo.com/feed.rss": {
-      "published_at": "2026-03-26T23:11:46.000Z",
-      "article_id": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed",
-      "article_link": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed"
+      "published_at": "2026-03-27T12:00:00.000Z",
+      "article_id": "https://idiallo.com/blog/sharing-a-name?src=feed",
+      "article_link": "https://idiallo.com/blog/sharing-a-name?src=feed"
     },
     "https://www.iyouhun.com/rss.php": {
       "published_at": "2026-03-26T02:25:09.000Z",
@@ -162,9 +162,9 @@
       "article_link": "https://evanhahn.com/random-programming-language/"
     },
     "https://www.construction-physics.com/feed": {
-      "published_at": "2026-03-21T12:03:50.000Z",
-      "article_id": "https://www.construction-physics.com/p/reading-list-032126",
-      "article_link": "https://www.construction-physics.com/p/reading-list-032126"
+      "published_at": "2026-03-27T12:00:44.000Z",
+      "article_id": "https://www.construction-physics.com/p/the-age-of-the-amplifier",
+      "article_link": "https://www.construction-physics.com/p/the-age-of-the-amplifier"
     },
     "https://feeds.feedburner.com/ruanyifeng": {
       "published_at": "2026-03-26T21:49:12.000Z",
