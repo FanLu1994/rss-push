@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T15:24:08.480Z",
+  "updated_at": "2026-03-27T16:25:42.620Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-27T10:39:36.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-27/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-27T14:53:43.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47543361",
-      "article_link": "https://www.nature.com/articles/s41467-026-69393-1"
+      "published_at": "2026-03-27T16:11:27.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47544614",
+      "article_link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-26T02:28:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-27T01:18:38.000Z",
-      "article_id": "https://techcrunch.com/?p=3106880",
-      "article_link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/"
+      "published_at": "2026-03-27T15:40:19.000Z",
+      "article_id": "https://techcrunch.com/?post_type=tc_podcast&p=3106990",
+      "article_link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -52,9 +52,9 @@
       "article_link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
     },
     "https://www.johndcook.com/blog/feed/": {
-      "published_at": "2026-03-27T11:33:04.000Z",
-      "article_id": "https://www.johndcook.com/blog/?p=246928",
-      "article_link": "https://www.johndcook.com/blog/2026/03/27/complex-argument/"
+      "published_at": "2026-03-27T16:06:18.000Z",
+      "article_id": "https://www.johndcook.com/blog/?p=246929",
+      "article_link": "https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/"
     },
     "https://buttondown.com/hillelwayne/rss": {
       "published_at": "2026-03-24T14:38:06.000Z",
