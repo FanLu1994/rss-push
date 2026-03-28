@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T05:33:19.229Z",
+  "updated_at": "2026-03-28T06:30:34.108Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-28T09:33:10.000Z",
@@ -17,9 +17,9 @@
       "article_link": "https://chenglou.me/pretext/editorial-engine/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
-      "published_at": "2026-03-26T02:28:00.000Z",
-      "article_id": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681025&idx=1&sn=442177fc00306f3ce79d7438f5adccbc",
-      "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681025&idx=1&sn=442177fc00306f3ce79d7438f5adccbc"
+      "published_at": "2026-03-27T06:22:00.000Z",
+      "article_id": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681035&idx=1&sn=618c8b3d9b2eb8d74e2e846d35e2873d",
+      "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681035&idx=1&sn=618c8b3d9b2eb8d74e2e846d35e2873d"
     },
     "https://daringfireball.net/feeds/main": {
       "published_at": "2026-03-28T00:48:14.000Z",
@@ -192,9 +192,9 @@
       "article_link": "https://tech.meituan.com/2026/03/20/busniness-intelligence-practice-in-meituan.html"
     },
     "https://s.baoyu.io/feed.xml": {
-      "published_at": "2026-03-26T00:00:00.000Z",
-      "article_id": "https://baoyu.io/translations/2026-03-26/what-i-learned-from-two-weeks-inside-china-s-ai-ecosystem",
-      "article_link": "https://baoyu.io/translations/2026-03-26/what-i-learned-from-two-weeks-inside-china-s-ai-ecosystem"
+      "published_at": "2026-03-28T00:00:00.000Z",
+      "article_id": "https://baoyu.io/blog/from-note-taking-app-to-ai-workspace-the-simon-last-interview",
+      "article_link": "https://baoyu.io/blog/from-note-taking-app-to-ai-workspace-the-simon-last-interview"
     },
     "https://lucumr.pocoo.org/feed.atom": {
       "published_at": "2026-03-20T00:00:00.000Z",
