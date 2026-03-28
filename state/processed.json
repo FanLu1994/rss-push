@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T13:28:01.512Z",
+  "updated_at": "2026-03-28T14:16:57.030Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-28T09:33:10.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-28/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-28T12:01:27.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47553798",
-      "article_link": "https://github.com/EnriqueLop/legalize-es"
+      "published_at": "2026-03-28T13:28:34.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47554412",
+      "article_link": "https://2ndbreakfast.audreywatters.com/you-do-not-in-fact-have-to-hand-it-to-them/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-27T06:22:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.status.news/p/business-insider-subscription-decline-data"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-27T21:44:45.000Z",
-      "article_id": "https://techcrunch.com/?p=3107152",
-      "article_link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"
+      "published_at": "2026-03-28T14:15:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3106809",
+      "article_link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
