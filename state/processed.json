@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T15:14:27.604Z",
+  "updated_at": "2026-03-28T16:14:42.777Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-28T09:33:10.000Z",
@@ -22,14 +22,14 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681035&idx=1&sn=618c8b3d9b2eb8d74e2e846d35e2873d"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-28T15:02:42.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42819",
-      "article_link": "https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/"
+      "published_at": "2026-03-28T15:52:08.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42821",
+      "article_link": "https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-28T14:15:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3106809",
-      "article_link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"
+      "published_at": "2026-03-28T16:11:16.000Z",
+      "article_id": "https://techcrunch.com/?p=3107357",
+      "article_link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -117,9 +117,9 @@
       "article_link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/"
     },
     "https://feed.tedium.co/": {
-      "published_at": "2026-03-27T15:56:07.000Z",
-      "article_id": "https://tedium.co/2026/03/27/apple-mac-pro-discontinued-anniversary/",
-      "article_link": "https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary"
+      "published_at": "2026-03-28T15:35:16.000Z",
+      "article_id": "https://tedium.co/2026/03/28/self-hosting-platform-tools-guide/",
+      "article_link": "https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide"
     },
     "https://idiallo.com/feed.rss": {
       "published_at": "2026-03-27T12:00:00.000Z",
