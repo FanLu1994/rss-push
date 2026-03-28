@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T20:13:08.473Z",
+  "updated_at": "2026-03-28T21:13:26.882Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-28T09:33:10.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-28/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-28T18:42:08.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47557185",
-      "article_link": "https://lzon.ca/posts/other/thoughts-ai-era/"
+      "published_at": "2026-03-28T20:39:01.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47557960",
+      "article_link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-27T06:22:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-28T16:11:16.000Z",
-      "article_id": "https://techcrunch.com/?p=3107357",
-      "article_link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/"
+      "published_at": "2026-03-28T20:45:54.000Z",
+      "article_id": "https://techcrunch.com/?p=3107363",
+      "article_link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
