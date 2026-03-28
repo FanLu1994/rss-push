@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T10:15:32.469Z",
+  "updated_at": "2026-03-28T11:12:45.826Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-28T09:33:10.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-28/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-28T08:06:19.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47552562",
-      "article_link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
+      "published_at": "2026-03-28T10:49:44.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47553403",
+      "article_link": "https://paulkrugman.substack.com/p/treason-in-the-futures-markets"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-27T06:22:00.000Z",
@@ -342,9 +342,9 @@
       "article_link": "https://www.theatlantic.com/ideas/2026/02/social-media-literacy-crisis/686076/?utm_source=feed"
     },
     "https://veryjack.com/feed/": {
-      "published_at": "2026-02-19T14:54:27.000Z",
-      "article_id": "https://veryjack.com/?p=6782",
-      "article_link": "https://veryjack.com/technique/cookie/"
+      "published_at": "2026-03-28T11:01:42.000Z",
+      "article_id": "https://veryjack.com/?p=6801",
+      "article_link": "https://veryjack.com/life/step_out_of_comfort_zone/"
     },
     "https://cbvivi.today/feed.xml": {
       "published_at": "2026-02-16T16:35:19.000Z",
