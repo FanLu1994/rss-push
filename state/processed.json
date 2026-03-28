@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T08:19:35.967Z",
+  "updated_at": "2026-03-28T10:15:32.469Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-28T09:33:10.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-28/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-28T03:19:34.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47551254",
-      "article_link": "https://chenglou.me/pretext/editorial-engine/"
+      "published_at": "2026-03-28T08:06:19.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47552562",
+      "article_link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-27T06:22:00.000Z",
@@ -77,9 +77,9 @@
       "article_link": "https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/"
     },
     "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml": {
-      "published_at": "2026-03-24T10:33:00.000Z",
-      "article_id": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247501628&idx=1&sn=c90bcb7bbd934b717d6cd0608ae8219b",
-      "article_link": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247501628&idx=1&sn=c90bcb7bbd934b717d6cd0608ae8219b"
+      "published_at": "2026-03-28T05:01:00.000Z",
+      "article_id": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247501631&idx=1&sn=b8114e0dda2e1fe6f693a30385732540",
+      "article_link": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247501631&idx=1&sn=b8114e0dda2e1fe6f693a30385732540"
     },
     "https://blog.uwa4d.com/feed/": {
       "published_at": "2026-03-24T09:11:00.000Z",
