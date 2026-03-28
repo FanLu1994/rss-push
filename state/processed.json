@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T22:11:58.867Z",
+  "updated_at": "2026-03-28T23:14:18.322Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-28T09:33:10.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-28/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-28T21:35:22.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47558305",
-      "article_link": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer"
+      "published_at": "2026-03-28T22:29:10.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47558657",
+      "article_link": "https://www.scientificamerican.com/article/why-mathematicians-are-boycotting-their-biggest-conference/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-27T06:22:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-28T20:45:54.000Z",
-      "article_id": "https://techcrunch.com/?p=3107363",
-      "article_link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/"
+      "published_at": "2026-03-28T23:00:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3107020",
+      "article_link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -97,9 +97,9 @@
       "article_link": "https://www.joanwestenberg.com/members-only-on-cathedral-thinking/"
     },
     "https://susam.net/feed.xml": {
-      "published_at": "2026-03-25T00:00:00.000Z",
-      "article_id": "wnzth",
-      "article_link": "https://susam.net/code/news/wander/0.3.0.html"
+      "published_at": "2026-03-28T00:00:00.000Z",
+      "article_id": "wfcar",
+      "article_link": "https://susam.net/fork-commits-via-original-repo.html"
     },
     "https://entropicthoughts.com/feed.xml": {
       "published_at": "2026-03-23T23:00:00.000Z",
