@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T15:14:22.931Z",
+  "updated_at": "2026-03-29T16:15:21.543Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-29T09:52:46.000Z",
@@ -137,9 +137,9 @@
       "article_link": "https://www.abortretry.fail/p/hitachi-ltd-part-i"
     },
     "https://weekly.tw93.fun/rss.xml": {
-      "published_at": "2026-03-23T00:00:00.000Z",
-      "article_id": "https://weekly.tw93.fun/posts/261/",
-      "article_link": "https://weekly.tw93.fun/posts/261/"
+      "published_at": "2026-03-30T00:00:00.000Z",
+      "article_id": "https://weekly.tw93.fun/posts/262/",
+      "article_link": "https://weekly.tw93.fun/posts/262/"
     },
     "https://aigc-weekly.agi.li/rss.xml": {
       "published_at": "2026-03-22T12:00:00.000Z",
@@ -357,9 +357,9 @@
       "article_link": "https://utcc.utoronto.ca/~cks/cspace-gen-http429.html"
     },
     "https://www.righto.com/feeds/posts/default": {
-      "published_at": "2026-02-14T16:48:00.000Z",
-      "article_id": "tag:blogger.com,1999:blog-6264947694886887540.post-8201340188892833254",
-      "article_link": "http://www.righto.com/2026/02/8087-instruction-decoding.html"
+      "published_at": "2026-03-29T16:06:00.000Z",
+      "article_id": "tag:blogger.com,1999:blog-6264947694886887540.post-542341856603240438",
+      "article_link": "http://www.righto.com/2026/03/ibm-4-pi-computer-history.html"
     },
     "https://catcoding.me/atom.xml": {
       "published_at": "2026-02-12T16:55:52.000Z",
