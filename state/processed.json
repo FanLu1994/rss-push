@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T03:14:28.467Z",
+  "updated_at": "2026-03-29T07:29:21.162Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-29T09:52:46.000Z",
@@ -12,14 +12,14 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-28/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-29T02:35:59.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47559948",
-      "article_link": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723"
+      "published_at": "2026-03-29T06:03:30.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47560768",
+      "article_link": "https://apnews.com/article/nestle-switzerland-candy-bar-stolen-kitkat-51073cce27a0e193651aa7f31aaa506e"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
-      "published_at": "2026-03-27T06:22:00.000Z",
-      "article_id": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681035&idx=1&sn=618c8b3d9b2eb8d74e2e846d35e2873d",
-      "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681035&idx=1&sn=618c8b3d9b2eb8d74e2e846d35e2873d"
+      "published_at": "2026-03-28T09:21:00.000Z",
+      "article_id": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681090&idx=1&sn=70ff1397460421defa4dcbdf85d77012",
+      "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681090&idx=1&sn=70ff1397460421defa4dcbdf85d77012"
     },
     "https://daringfireball.net/feeds/main": {
       "published_at": "2026-03-28T23:47:39.000Z",
