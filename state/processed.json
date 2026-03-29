@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T21:14:29.882Z",
+  "updated_at": "2026-03-29T23:14:55.330Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-29T09:52:46.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-29/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-29T20:42:04.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47567087",
-      "article_link": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/"
+      "published_at": "2026-03-29T22:28:11.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47568080",
+      "article_link": "https://github.com/dreddnafious/thereisnospoon"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-28T09:21:00.000Z",
