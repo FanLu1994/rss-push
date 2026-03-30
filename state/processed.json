@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T23:14:55.330Z",
+  "updated_at": "2026-03-30T00:53:23.277Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-29T09:52:46.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/t26001/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-03-29T00:46:41.000Z",
-      "article_id": "https://tonybai.com/?p=6114",
-      "article_link": "https://tonybai.com/2026/03/29/stop-mindless-ai-coding-we-are-heading-to-a-dead-end/"
+      "published_at": "2026-03-30T00:10:00.000Z",
+      "article_id": "https://tonybai.com/?p=6119",
+      "article_link": "https://tonybai.com/2026/03/30/reduced-p99-latency-by-request-hedging-in-go/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-03-24T19:50:00.000Z",
