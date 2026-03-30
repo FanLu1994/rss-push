@@ -24,17 +24,19 @@ function buildPrompt(article) {
   const summaryText = stripHtml(article.summary_raw || "");
   // Prefer full content; fall back to summary snippet
   const body = contentText.length > summaryText.length ? contentText : summaryText;
+  const bodySparse = body.trim().length < 50;
 
   return [
     "你是一个资讯编辑，擅长将各类文章提炼为中文摘要。",
     "请基于给定文章信息输出 JSON（禁止输出额外文本）。",
     "所有字段必须使用中文。",
     "字段要求:",
-    "title_zh: 无论原标题是什么语言，必须输出中文标题；若原标题已是中文则直接返回原文",
-    "brief: 50-100字中文摘要，概括文章核心内容",
-    "highlights: 2-4条中文要点数组，每条不超过30字",
+    "title_zh: 【必填，不可省略】无论原标题是什么语言，必须翻译并输出中文标题；若原标题已是中文则直接返回原文",
+    "brief: 50-100字中文摘要，概括文章核心内容；若正文不足，则根据标题和来源推断文章可能的内容进行描述",
+    "highlights: 2-4条中文要点数组，每条不超过30字；若正文不足，根据标题推断关键看点",
     "why_it_matters: 1句中文，说明此文章的价值或意义",
     "tags: 1-4个中文标签数组",
+    ...(bodySparse ? ["", "注意：正文内容较少，请务必根据标题和来源来推断并生成完整的中文摘要，不要直接复制正文。"] : []),
     "",
     `标题: ${article.title}`,
     `来源: ${article.source}`,
@@ -54,11 +56,7 @@ function fallback(article) {
   };
 }
 
-export async function summarizeArticle(article, env) {
-  if (!env.llmApiKey) {
-    return fallback(article);
-  }
-
+async function callAi(article, env) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), env.aiTimeoutMs);
   try {
@@ -92,10 +90,25 @@ export async function summarizeArticle(article, env) {
       why_it_matters: String(parsed.why_it_matters ?? "").trim() || "可作为信息追踪参考。",
       tags: Array.isArray(parsed.tags) ? parsed.tags.map(String).slice(0, 4) : [],
     };
-  } catch (error) {
-    console.warn(`[ai] summarize fallback: ${String(error?.message || error)}`);
-    return fallback(article);
   } finally {
     clearTimeout(timer);
+  }
+}
+
+export async function summarizeArticle(article, env) {
+  if (!env.llmApiKey) {
+    return fallback(article);
+  }
+
+  try {
+    return await callAi(article, env);
+  } catch (firstError) {
+    console.warn(`[ai] first attempt failed, retrying: ${String(firstError?.message || firstError)}`);
+    try {
+      return await callAi(article, env);
+    } catch (error) {
+      console.warn(`[ai] summarize fallback: ${String(error?.message || error)}`);
+      return fallback(article);
+    }
   }
 }
