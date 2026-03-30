@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T10:37:24.208Z",
+  "updated_at": "2026-03-30T12:31:50.921Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-30T09:47:45.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-30/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-30T08:51:18.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47572000",
-      "article_link": "https://status.stripe.com/"
+      "published_at": "2026-03-30T11:25:50.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47572910",
+      "article_link": "https://www.mgrunwald.com/ghostmoon/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-30T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q12026"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-30T03:09:38.000Z",
-      "article_id": "https://techcrunch.com/?p=3107404",
-      "article_link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"
+      "published_at": "2026-03-30T12:30:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3107381",
+      "article_link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -72,9 +72,9 @@
       "article_link": "https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172"
     },
     "https://shkspr.mobi/blog/feed/": {
-      "published_at": "2026-03-28T12:34:11.000Z",
-      "article_id": "https://shkspr.mobi/blog/?p=68382",
-      "article_link": "https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/"
+      "published_at": "2026-03-30T11:34:35.000Z",
+      "article_id": "https://shkspr.mobi/blog/?p=69952",
+      "article_link": "https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/"
     },
     "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml": {
       "published_at": "2026-03-28T05:01:00.000Z",
@@ -122,9 +122,9 @@
       "article_link": "https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide"
     },
     "https://idiallo.com/feed.rss": {
-      "published_at": "2026-03-27T12:00:00.000Z",
-      "article_id": "https://idiallo.com/blog/sharing-a-name?src=feed",
-      "article_link": "https://idiallo.com/blog/sharing-a-name?src=feed"
+      "published_at": "2026-03-30T12:00:00.000Z",
+      "article_id": "https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed",
+      "article_link": "https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed"
     },
     "https://www.iyouhun.com/rss.php": {
       "published_at": "2026-03-26T02:25:09.000Z",
@@ -172,9 +172,9 @@
       "article_link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html"
     },
     "https://tw93.fun/feed.xml": {
-      "published_at": "2026-03-21T00:00:00.000Z",
-      "article_id": "https://tw93.fun/2026-03-21/agent.html",
-      "article_link": "https://tw93.fun/2026-03-21/agent.html"
+      "published_at": "2026-03-30T00:00:00.000Z",
+      "article_id": "https://tw93.fun/2026-03-30/kill.html",
+      "article_link": "https://tw93.fun/2026-03-30/kill.html"
     },
     "https://www.dwarkesh.com/feed": {
       "published_at": "2026-03-20T16:00:55.000Z",
@@ -227,9 +227,9 @@
       "article_link": "https://www.physixfan.com/cengjingyiweishijiedefazhanyijingquyutingzhile-nazhidaoxianzaiyijingwufayuce10nianhoushijiehuia/"
     },
     "https://anotherdayu.com/feed/": {
-      "published_at": "2026-03-17T10:47:00.000Z",
-      "article_id": "https://anotherdayu.com/5823/",
-      "article_link": "https://anotherdayu.com/5823/"
+      "published_at": "2026-03-30T12:03:00.000Z",
+      "article_id": "https://anotherdayu.com/geforce-now/",
+      "article_link": "https://anotherdayu.com/geforce-now/"
     },
     "https://www.zhangxinxu.com/wordpress/feed/": {
       "published_at": "2026-03-30T06:08:36.000Z",
