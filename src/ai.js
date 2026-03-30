@@ -56,12 +56,14 @@ function fallback(article) {
   };
 }
 
-async function callAi(article, env) {
+async function callAi(article, env, attempt) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), env.aiTimeoutMs);
+  const base = env.llmBaseUrl.replace(/\/$/, "");
+  const url = `${base}/chat/completions`;
+  console.log(`[ai] attempt=${attempt} model=${env.llmModel} title="${article.title}"`);
   try {
-    const base = env.llmBaseUrl.replace(/\/$/, "");
-    const resp = await fetch(`${base}/chat/completions`, {
+    const resp = await fetch(url, {
       method: "POST",
       signal: controller.signal,
       headers: {
@@ -76,20 +78,24 @@ async function callAi(article, env) {
     });
 
     if (!resp.ok) {
-      throw new Error(`AI request failed with status ${resp.status}`);
+      const body = await resp.text().catch(() => "");
+      throw new Error(`HTTP ${resp.status}: ${body.slice(0, 200)}`);
     }
 
     const data = await resp.json();
     const text = data?.choices?.[0]?.message?.content ?? "";
+    console.log(`[ai] attempt=${attempt} ok, raw response length=${text.length}`);
     const parsed = parseJsonBlock(text);
 
-    return {
+    const result = {
       title_zh: String(parsed.title_zh ?? "").trim() || String(article.title ?? "").trim(),
       brief: String(parsed.brief ?? "").trim() || fallback(article).brief,
       highlights: Array.isArray(parsed.highlights) ? parsed.highlights.map(String).slice(0, 4) : [],
       why_it_matters: String(parsed.why_it_matters ?? "").trim() || "可作为信息追踪参考。",
       tags: Array.isArray(parsed.tags) ? parsed.tags.map(String).slice(0, 4) : [],
     };
+    console.log(`[ai] attempt=${attempt} parsed title_zh="${result.title_zh}"`);
+    return result;
   } finally {
     clearTimeout(timer);
   }
@@ -101,14 +107,15 @@ export async function summarizeArticle(article, env) {
     return fallback(article);
   }
 
+  console.log(`[ai] provider=${env.llmProvider} model=${env.llmModel} baseUrl=${env.llmBaseUrl} timeoutMs=${env.aiTimeoutMs}`);
   try {
-    return await callAi(article, env);
+    return await callAi(article, env, 1);
   } catch (firstError) {
-    console.warn(`[ai] first attempt failed, retrying: ${String(firstError?.message || firstError)}`);
+    console.warn(`[ai] attempt=1 failed: ${String(firstError?.message || firstError)}`);
     try {
-      return await callAi(article, env);
+      return await callAi(article, env, 2);
     } catch (error) {
-      console.warn(`[ai] summarize fallback: ${String(error?.message || error)}`);
+      console.warn(`[ai] attempt=2 failed: ${String(error?.message || error)}, using fallback`);
       return fallback(article);
     }
   }
