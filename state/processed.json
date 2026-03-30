@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T15:37:25.049Z",
+  "updated_at": "2026-03-30T16:30:08.823Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-30T09:47:45.000Z",
@@ -22,14 +22,14 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681147&idx=1&sn=4615f9781b37aeede4d97fec2dc87f4b"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-29T20:50:00.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42827",
-      "article_link": "https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q12026"
+      "published_at": "2026-03-30T16:24:40.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42829",
+      "article_link": "https://scottknaster.substack.com/p/macs-of-unusual-size"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-30T13:52:02.000Z",
-      "article_id": "https://techcrunch.com/?p=3107417",
-      "article_link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"
+      "published_at": "2026-03-30T14:30:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3105222",
+      "article_link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
