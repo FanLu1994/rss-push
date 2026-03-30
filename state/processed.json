@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T14:41:08.428Z",
+  "updated_at": "2026-03-30T15:37:25.049Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-30T09:47:45.000Z",
@@ -62,9 +62,9 @@
       "article_link": "https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/"
     },
     "https://www.phodal.com/blog/feeds/rss/": {
-      "published_at": "2026-03-24T14:12:00.000Z",
-      "article_id": "http://www.phodal.com/blog/ai-coded-project-governance-evolution-250k-lines/",
-      "article_link": "http://www.phodal.com/blog/ai-coded-project-governance-evolution-250k-lines/"
+      "published_at": "2026-03-30T15:03:00.000Z",
+      "article_id": "http://www.phodal.com/blog/harness-engineering-skill-entrix-skill/",
+      "article_link": "http://www.phodal.com/blog/harness-engineering-skill-entrix-skill/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
       "published_at": "2026-03-27T14:00:00.000Z",
