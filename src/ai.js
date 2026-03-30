@@ -97,6 +97,7 @@ async function callAi(article, env) {
 
 export async function summarizeArticle(article, env) {
   if (!env.llmApiKey) {
+    console.warn("[ai] no API key configured, skipping AI summarization");
     return fallback(article);
   }
 
