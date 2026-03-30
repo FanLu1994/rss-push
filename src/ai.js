@@ -7,21 +7,39 @@ function parseJsonBlock(text) {
   return JSON.parse(text.slice(start, end + 1));
 }
 
+function stripHtml(html) {
+  return String(html ?? "")
+    .replace(/<[^>]*>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&")
+    .replace(/&quot;/g, '"')
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function buildPrompt(article) {
+  const contentText = stripHtml(article.content_raw || "");
+  const summaryText = stripHtml(article.summary_raw || "");
+  // Prefer full content; fall back to summary snippet
+  const body = contentText.length > summaryText.length ? contentText : summaryText;
+
   return [
-    "你是一个技术资讯编辑。",
+    "你是一个资讯编辑，擅长将各类文章提炼为中文摘要。",
     "请基于给定文章信息输出 JSON（禁止输出额外文本）。",
+    "所有字段必须使用中文。",
     "字段要求:",
-    "title_zh: 标题中文化结果；如果原标题是英文，翻译成简洁自然的中文标题；如果原标题已经是中文、或不适合翻译，则返回原标题",
-    "brief: 40-80字中文简介",
-    "highlights: 2-4条中文要点数组",
-    "why_it_matters: 1句中文，说明价值",
-    "tags: 1-4个标签数组",
+    "title_zh: 无论原标题是什么语言，必须输出中文标题；若原标题已是中文则直接返回原文",
+    "brief: 50-100字中文摘要，概括文章核心内容",
+    "highlights: 2-4条中文要点数组，每条不超过30字",
+    "why_it_matters: 1句中文，说明此文章的价值或意义",
+    "tags: 1-4个中文标签数组",
     "",
     `标题: ${article.title}`,
     `来源: ${article.source}`,
     `发布时间: ${article.published_at || "未知"}`,
-    `摘要: ${(article.summary_raw || "").slice(0, 1200)}`,
+    `正文:\n${body.slice(0, 3000)}`,
   ].join("\n");
 }
 
