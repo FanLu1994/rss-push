@@ -23,9 +23,12 @@ function normalizeTelegramHtml(html) {
 }
 
 export function renderBatch(nowIso, items) {
-  const now = nowIso.slice(0, 16).replace("T", " ");
+  const beijingTime = new Date(new Date(nowIso).getTime() + 8 * 60 * 60 * 1000)
+    .toISOString()
+    .slice(0, 16)
+    .replace("T", " ");
   const lines = [];
-  lines.push(`**RSS 更新** (${escapeMarkdown(now)} UTC)`);
+  lines.push(`**RSS 更新** (${escapeMarkdown(beijingTime)} 北京时间)`);
   lines.push("");
 
   for (const it of items) {
