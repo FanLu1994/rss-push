@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T16:30:08.823Z",
+  "updated_at": "2026-03-30T17:25:42.564Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-30T09:47:45.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681147&idx=1&sn=4615f9781b37aeede4d97fec2dc87f4b"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-30T16:24:40.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42829",
-      "article_link": "https://scottknaster.substack.com/p/macs-of-unusual-size"
+      "published_at": "2026-03-30T16:46:31.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42830",
+      "article_link": "https://paulgraham.com/brandage.html"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-03-30T14:30:00.000Z",
