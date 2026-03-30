@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T17:25:42.564Z",
+  "updated_at": "2026-03-30T19:29:28.274Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-30T09:47:45.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-30/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-30T14:06:41.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47574547",
-      "article_link": "https://sectio-aurea-q.github.io/pharma-dosing-error.html"
+      "published_at": "2026-03-30T19:13:05.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47578464",
+      "article_link": "https://www.laphamsquarterly.org/roundtable/william-blake-remote-sea"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-30T02:09:00.000Z",
@@ -67,9 +67,9 @@
       "article_link": "http://www.phodal.com/blog/harness-engineering-skill-entrix-skill/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
-      "published_at": "2026-03-27T14:00:00.000Z",
-      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112172",
-      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172"
+      "published_at": "2026-03-30T14:00:00.000Z",
+      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112175",
+      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175"
     },
     "https://shkspr.mobi/blog/feed/": {
       "published_at": "2026-03-30T11:34:35.000Z",
