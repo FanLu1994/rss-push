@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T08:33:41.950Z",
+  "updated_at": "2026-03-31T09:33:12.553Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-31/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-31T05:39:41.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47583151",
-      "article_link": "https://github.com/tihiera/raincast"
+      "published_at": "2026-03-31T09:00:40.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47584540",
+      "article_link": "https://twitter.com/Fried_rice/status/2038894956459290963"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-31T02:09:00.000Z",
