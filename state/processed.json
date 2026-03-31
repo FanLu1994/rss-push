@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T22:17:55.421Z",
+  "updated_at": "2026-03-31T23:16:17.454Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -22,14 +22,14 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681166&idx=1&sn=aa7bbb97a0efb2a95828bd0d73ce0fa2"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-31T21:36:35.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42835",
-      "article_link": "https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/"
+      "published_at": "2026-03-31T23:01:03.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42836",
+      "article_link": "https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-31T21:25:04.000Z",
-      "article_id": "https://techcrunch.com/?p=3108232",
-      "article_link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/"
+      "published_at": "2026-03-31T22:46:25.000Z",
+      "article_id": "https://techcrunch.com/?p=3107777",
+      "article_link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -157,9 +157,9 @@
       "article_link": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260328/"
     },
     "https://evanhahn.com/blog/index.xml": {
-      "published_at": "2026-03-22T00:00:00.000Z",
-      "article_id": "https://evanhahn.com/random-programming-language/",
-      "article_link": "https://evanhahn.com/random-programming-language/"
+      "published_at": "2026-03-31T00:00:00.000Z",
+      "article_id": "https://evanhahn.com/notes-from-march-2026/",
+      "article_link": "https://evanhahn.com/notes-from-march-2026/"
     },
     "https://www.construction-physics.com/feed": {
       "published_at": "2026-03-28T12:02:28.000Z",
