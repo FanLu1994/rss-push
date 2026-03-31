@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T23:18:13.427Z",
+  "updated_at": "2026-03-31T00:50:44.228Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-30T09:47:45.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-30T23:08:12.000Z",
-      "article_id": "https://techcrunch.com/?p=3107773",
-      "article_link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/"
+      "published_at": "2026-03-30T23:41:48.000Z",
+      "article_id": "https://techcrunch.com/?p=3107695",
+      "article_link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/t26001/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-03-30T00:10:00.000Z",
-      "article_id": "https://tonybai.com/?p=6119",
-      "article_link": "https://tonybai.com/2026/03/30/reduced-p99-latency-by-request-hedging-in-go/"
+      "published_at": "2026-03-30T23:26:51.000Z",
+      "article_id": "https://tonybai.com/?p=6123",
+      "article_link": "https://tonybai.com/2026/03/31/go-minimalism-vs-cpp26-epic-new-features/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-03-24T19:50:00.000Z",
@@ -92,9 +92,9 @@
       "article_link": "https://nesbitt.io/2026/03/30/git-diff-drivers.html"
     },
     "https://www.joanwestenberg.com/rss/": {
-      "published_at": "2026-03-30T05:55:34.000Z",
-      "article_id": "69ca0eb21ee8f600019ed474",
-      "article_link": "https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/"
+      "published_at": "2026-03-31T00:20:34.000Z",
+      "article_id": "69cb12a51ee8f600019f09e4",
+      "article_link": "https://www.joanwestenberg.com/the-worlds-first-bullshit/"
     },
     "https://susam.net/feed.xml": {
       "published_at": "2026-03-28T00:00:00.000Z",
