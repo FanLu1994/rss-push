@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T15:34:45.816Z",
+  "updated_at": "2026-03-31T16:30:32.645Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-31/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-31T15:00:27.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47588330",
-      "article_link": "https://victorantos.com/posts/i-read-the-leaked-claude-code-source-heres-what-i-found/"
+      "published_at": "2026-03-31T15:39:45.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47589011",
+      "article_link": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-31T02:09:00.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681166&idx=1&sn=aa7bbb97a0efb2a95828bd0d73ce0fa2"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-31T15:11:08.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42832",
-      "article_link": "https://blog.thereallo.dev/blog/decompiling-the-white-house-app"
+      "published_at": "2026-03-31T15:54:25.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42834",
+      "article_link": "https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-03-31T15:00:00.000Z",
@@ -47,9 +47,9 @@
       "article_link": "https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying"
     },
     "https://www.wheresyoured.at/rss/": {
-      "published_at": "2026-03-27T17:21:30.000Z",
-      "article_id": "69c6988904294e00010fcae7",
-      "article_link": "https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/"
+      "published_at": "2026-03-31T16:18:11.000Z",
+      "article_id": "69cbe158e4b26b000151c4ae",
+      "article_link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
     },
     "https://www.johndcook.com/blog/feed/": {
       "published_at": "2026-03-31T14:43:06.000Z",
@@ -87,9 +87,9 @@
       "article_link": "https://blog.uwa4d.com/archives/EDU_Performance5.html"
     },
     "https://nesbitt.io/feed.xml": {
-      "published_at": "2026-03-30T10:00:00.000Z",
-      "article_id": "https://nesbitt.io/2026/03/30/git-diff-drivers",
-      "article_link": "https://nesbitt.io/2026/03/30/git-diff-drivers.html"
+      "published_at": "2026-03-31T10:00:00.000Z",
+      "article_id": "https://nesbitt.io/2026/03/31/npms-defaults-are-bad",
+      "article_link": "https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html"
     },
     "https://www.joanwestenberg.com/rss/": {
       "published_at": "2026-03-31T00:20:34.000Z",
@@ -547,9 +547,9 @@
       "article_link": "https://kill-the-newsletter.com/feeds/xcn3ldknjdme7yv7/entries/kx3za4ms72mjhoe72iom.html"
     },
     "https://blog.mikeoperfect.com/atom.xml": {
-      "published_at": "2025-02-11T06:32:11.000Z",
-      "article_id": "https://blog.mikeoperfect.com/posts/25211/",
-      "article_link": "https://blog.mikeoperfect.com/posts/25211/"
+      "published_at": "2026-03-30T14:59:04.000Z",
+      "article_id": "https://blog.mikeoperfect.com/posts/44605/",
+      "article_link": "https://blog.mikeoperfect.com/posts/44605/"
     },
     "https://wzyboy.im/feed.xml": {
       "published_at": "2024-06-27T18:09:00.000Z",
