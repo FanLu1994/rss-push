@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T11:25:09.369Z",
+  "updated_at": "2026-03-31T12:31:26.173Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-31/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-31T10:02:34.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47585008",
-      "article_link": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026"
+      "published_at": "2026-03-31T10:21:33.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47585192",
+      "article_link": "https://github.com/JasonHonKL/PardusBrowser/tree/main"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-31T02:09:00.000Z",
@@ -52,9 +52,9 @@
       "article_link": "https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/"
     },
     "https://www.johndcook.com/blog/feed/": {
-      "published_at": "2026-03-27T16:06:18.000Z",
-      "article_id": "https://www.johndcook.com/blog/?p=246929",
-      "article_link": "https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/"
+      "published_at": "2026-03-31T12:12:31.000Z",
+      "article_id": "https://www.johndcook.com/blog/?p=246931",
+      "article_link": "https://www.johndcook.com/blog/2026/03/31/morse-code-tree/"
     },
     "https://buttondown.com/hillelwayne/rss": {
       "published_at": "2026-03-24T14:38:06.000Z",
