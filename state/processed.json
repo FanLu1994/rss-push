@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T19:29:47.390Z",
+  "updated_at": "2026-03-31T20:20:33.093Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-31/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-31T19:01:29.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47591928",
-      "article_link": "https://damrnelson.github.io/github-historical-uptime/"
+      "published_at": "2026-03-31T19:22:58.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47592183",
+      "article_link": "https://cerno.sh"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-31T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-31T17:41:35.000Z",
-      "article_id": "https://techcrunch.com/?p=3107971",
-      "article_link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/"
+      "published_at": "2026-03-31T20:01:07.000Z",
+      "article_id": "https://techcrunch.com/?p=3108096",
+      "article_link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -67,9 +67,9 @@
       "article_link": "http://www.phodal.com/blog/harness-engineering-skill-entrix-skill/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
-      "published_at": "2026-03-30T14:00:00.000Z",
-      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112175",
-      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175"
+      "published_at": "2026-03-31T14:00:00.000Z",
+      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112177",
+      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177"
     },
     "https://shkspr.mobi/blog/feed/": {
       "published_at": "2026-03-30T11:34:35.000Z",
@@ -102,9 +102,9 @@
       "article_link": "https://susam.net/26c.html"
     },
     "https://entropicthoughts.com/feed.xml": {
-      "published_at": "2026-03-23T23:00:00.000Z",
-      "article_id": "https://entropicthoughts.com/lines-of-code",
-      "article_link": "https://entropicthoughts.com/lines-of-code"
+      "published_at": "2026-03-30T22:00:00.000Z",
+      "article_id": "https://entropicthoughts.com/mvc-mistake",
+      "article_link": "https://entropicthoughts.com/mvc-mistake"
     },
     "https://elmagnifico.tech/feed.xml": {
       "published_at": "2026-03-26T16:00:00.000Z",
