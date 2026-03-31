@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T17:28:27.997Z",
+  "updated_at": "2026-03-31T18:28:48.578Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-31T15:00:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3107632",
-      "article_link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/"
+      "published_at": "2026-03-31T17:41:35.000Z",
+      "article_id": "https://techcrunch.com/?p=3107971",
+      "article_link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
