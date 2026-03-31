@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T12:31:26.173Z",
+  "updated_at": "2026-03-31T14:39:44.757Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-31/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-31T10:21:33.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47585192",
-      "article_link": "https://github.com/JasonHonKL/PardusBrowser/tree/main"
+      "published_at": "2026-03-31T14:05:42.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47587597",
+      "article_link": "https://news.ycombinator.com/item?id=47587597"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-31T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-30T23:41:48.000Z",
-      "article_id": "https://techcrunch.com/?p=3107695",
-      "article_link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/"
+      "published_at": "2026-03-31T14:00:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3107677",
+      "article_link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
