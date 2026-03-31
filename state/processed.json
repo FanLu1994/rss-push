@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T09:33:12.553Z",
+  "updated_at": "2026-03-31T10:29:30.573Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-31/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-31T09:00:40.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47584540",
-      "article_link": "https://twitter.com/Fried_rice/status/2038894956459290963"
+      "published_at": "2026-03-31T09:40:12.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47584850",
+      "article_link": "https://github.com/chatgptprojects/claude-code"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-31T02:09:00.000Z",
@@ -292,9 +292,9 @@
       "article_link": "https://www.leavesongs.com/PENETRATION/apifox-supply-chain-attack-analysis.html"
     },
     "https://rakhim.exotext.com/rss.xml": {
-      "published_at": "2026-03-19T00:00:00.000Z",
-      "article_id": "https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated",
-      "article_link": "https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated"
+      "published_at": "2026-03-31T00:00:00.000Z",
+      "article_id": "https://rakhim.exotext.com/making-human-languages-irrelevant",
+      "article_link": "https://rakhim.exotext.com/making-human-languages-irrelevant"
     },
     "https://blog.imzy.ink/feed/": {
       "published_at": "2026-03-12T01:54:23.000Z",
