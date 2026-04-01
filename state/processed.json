@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T01:42:25.563Z",
+  "updated_at": "2026-04-01T03:14:34.171Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-01T09:39:13.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-03-31/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-03-31T21:22:48.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47593634",
-      "article_link": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
+      "published_at": "2026-04-01T02:14:42.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47595971",
+      "article_link": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-03-31T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-31T23:58:26.000Z",
-      "article_id": "https://techcrunch.com/?p=3108324",
-      "article_link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/"
+      "published_at": "2026-04-01T01:42:59.000Z",
+      "article_id": "https://techcrunch.com/?p=3108357",
+      "article_link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -82,9 +82,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247501638&idx=1&sn=96c3175554fbc8dee18f77db359cb227"
     },
     "https://blog.uwa4d.com/feed/": {
-      "published_at": "2026-03-24T09:11:00.000Z",
-      "article_id": "https://blog.uwa4d.com/archives/EDU_Performance5.html",
-      "article_link": "https://blog.uwa4d.com/archives/EDU_Performance5.html"
+      "published_at": "2026-04-01T02:09:00.000Z",
+      "article_id": "https://blog.uwa4d.com/archives/TechSharing_469.html",
+      "article_link": "https://blog.uwa4d.com/archives/TechSharing_469.html"
     },
     "https://nesbitt.io/feed.xml": {
       "published_at": "2026-03-31T10:00:00.000Z",
@@ -117,9 +117,9 @@
       "article_link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/"
     },
     "https://feed.tedium.co/": {
-      "published_at": "2026-03-28T15:35:16.000Z",
-      "article_id": "https://tedium.co/2026/03/28/self-hosting-platform-tools-guide/",
-      "article_link": "https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide"
+      "published_at": "2026-04-01T01:19:32.000Z",
+      "article_id": "https://tedium.co/2026/03/31/ronald-g-wayne-apple-interview/",
+      "article_link": "https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview"
     },
     "https://idiallo.com/feed.rss": {
       "published_at": "2026-03-30T12:00:00.000Z",
