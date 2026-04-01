@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T17:26:25.376Z",
+  "updated_at": "2026-04-01T18:29:00.952Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-01T09:39:13.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-01/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-01T17:11:31.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47603657",
-      "article_link": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/"
+      "published_at": "2026-04-01T17:17:24.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47603737",
+      "article_link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-01T02:07:00.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681191&idx=1&sn=e9968edde84b89bd457472a92b832def"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-04-01T16:39:34.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42837",
-      "article_link": "https://www.apple.com/"
+      "published_at": "2026-04-01T17:39:36.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42838",
+      "article_link": "https://apnews.com/article/hershey-reeses-chocolate-peanut-butter-cups-recipe-1c17247e190eb03952e1c197b6f872ce"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-04-01T16:00:00.000Z",
@@ -57,9 +57,9 @@
       "article_link": "https://www.johndcook.com/blog/2026/04/01/pentagonal-numbers-are-truncated-triangular-numbers/"
     },
     "https://buttondown.com/hillelwayne/rss": {
-      "published_at": "2026-03-24T14:38:06.000Z",
-      "article_id": "https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/",
-      "article_link": "https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/"
+      "published_at": "2026-04-01T17:53:29.000Z",
+      "article_id": "https://buttondown.com/hillelwayne/archive/april-cools-post-new-york-vs-chicago-pizza/",
+      "article_link": "https://buttondown.com/hillelwayne/archive/april-cools-post-new-york-vs-chicago-pizza/"
     },
     "https://www.phodal.com/blog/feeds/rss/": {
       "published_at": "2026-03-30T15:03:00.000Z",
