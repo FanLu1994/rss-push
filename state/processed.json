@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T23:16:17.454Z",
+  "updated_at": "2026-04-01T00:56:20.092Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-03-31T09:43:04.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-03-31T22:46:25.000Z",
-      "article_id": "https://techcrunch.com/?p=3107777",
-      "article_link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
+      "published_at": "2026-03-31T23:58:26.000Z",
+      "article_id": "https://techcrunch.com/?p=3108324",
+      "article_link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/t26001/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-03-30T23:26:51.000Z",
-      "article_id": "https://tonybai.com/?p=6123",
-      "article_link": "https://tonybai.com/2026/03/31/go-minimalism-vs-cpp26-epic-new-features/"
+      "published_at": "2026-04-01T00:29:37.000Z",
+      "article_id": "https://tonybai.com/?p=6127",
+      "article_link": "https://tonybai.com/2026/04/01/rewrote-jsonata-in-golang-with-ai/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-03-24T19:50:00.000Z",
@@ -92,9 +92,9 @@
       "article_link": "https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html"
     },
     "https://www.joanwestenberg.com/rss/": {
-      "published_at": "2026-03-31T00:20:34.000Z",
-      "article_id": "69cb12a51ee8f600019f09e4",
-      "article_link": "https://www.joanwestenberg.com/the-worlds-first-bullshit/"
+      "published_at": "2026-03-31T23:32:07.000Z",
+      "article_id": "69cc58e31ee8f600019f0b01",
+      "article_link": "https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/"
     },
     "https://susam.net/feed.xml": {
       "published_at": "2026-03-30T00:00:00.000Z",
@@ -622,9 +622,9 @@
       "article_link": "https://cn.thelynan.com/a-mini-trip-in-macau/"
     },
     "https://echosoar.github.io/weekly/atom.xml": {
-      "published_at": "2026-03-25T00:00:00.000Z",
-      "article_id": "https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html",
-      "article_link": "https://echosoar.github.io/weekly/2026/03/25/第176期-偷懒爱好者周刊.html"
+      "published_at": "2026-04-01T00:00:00.000Z",
+      "article_id": "https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html",
+      "article_link": "https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html"
     }
   }
 }
