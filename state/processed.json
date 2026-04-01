@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T15:37:49.238Z",
+  "updated_at": "2026-04-01T17:26:25.376Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-01T09:39:13.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-01/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-01T14:26:16.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47601405",
-      "article_link": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot"
+      "published_at": "2026-04-01T17:11:31.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47603657",
+      "article_link": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-01T02:07:00.000Z",
@@ -22,14 +22,14 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681191&idx=1&sn=e9968edde84b89bd457472a92b832def"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-03-31T23:01:03.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42836",
-      "article_link": "https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3"
+      "published_at": "2026-04-01T16:39:34.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42837",
+      "article_link": "https://www.apple.com/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-01T14:00:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3108326",
-      "article_link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/"
+      "published_at": "2026-04-01T16:00:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3108199",
+      "article_link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -317,9 +317,9 @@
       "article_link": "https://ameow.xyz/archives/weekly-095"
     },
     "https://terriblesoftware.org/feed/": {
-      "published_at": "2026-03-27T19:35:32.000Z",
-      "article_id": "https://terriblesoftware.org/?p=559",
-      "article_link": "https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/"
+      "published_at": "2026-04-01T15:59:04.000Z",
+      "article_id": "https://terriblesoftware.org/?p=586",
+      "article_link": "https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/"
     },
     "https://micahflee.com/rss/": {
       "published_at": "2026-03-01T21:21:35.000Z",
