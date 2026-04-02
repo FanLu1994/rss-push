@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-02T06:38:15.261Z",
+  "updated_at": "2026-04-02T07:37:49.125Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
-      "published_at": "2026-04-02T09:53:46.000Z",
+      "published_at": "2026-04-02T14:55:41.000Z",
       "article_id": "https://ai.hubtoday.app//2026-04/2026-04-02/",
       "article_link": "https://ai.hubtoday.app//2026-04/2026-04-02/"
     },
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-01/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-02T05:33:20.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47610336",
-      "article_link": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/"
+      "published_at": "2026-04-02T07:17:50.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47611044",
+      "article_link": "http://hi.telli.com/join-us"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-02T02:20:00.000Z",
