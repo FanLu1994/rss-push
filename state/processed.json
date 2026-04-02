@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T11:23:37.750Z",
+  "updated_at": "2026-04-02T12:31:23.365Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-02T14:55:41.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-02/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-02T10:50:00.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47612601",
-      "article_link": "https://undark.org/2026/04/01/sweden-schools-books/"
+      "published_at": "2026-04-02T11:59:38.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47613248",
+      "article_link": "https://www.euronews.com/my-europe/2026/04/02/which-european-countries-have-the-best-salaries-after-taxes"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-02T02:20:00.000Z",
@@ -72,9 +72,9 @@
       "article_link": "https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180"
     },
     "https://shkspr.mobi/blog/feed/": {
-      "published_at": "2026-04-01T11:34:57.000Z",
-      "article_id": "https://shkspr.mobi/blog/?p=65027",
-      "article_link": "https://shkspr.mobi/blog/2026/04/random-file-format/"
+      "published_at": "2026-04-02T11:34:07.000Z",
+      "article_id": "https://shkspr.mobi/blog/?p=69993",
+      "article_link": "https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/"
     },
     "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml": {
       "published_at": "2026-04-01T20:00:00.000Z",
@@ -162,9 +162,9 @@
       "article_link": "https://evanhahn.com/notes-from-march-2026/"
     },
     "https://www.construction-physics.com/feed": {
-      "published_at": "2026-03-28T12:02:28.000Z",
-      "article_id": "https://www.construction-physics.com/p/reading-list-032826",
-      "article_link": "https://www.construction-physics.com/p/reading-list-032826"
+      "published_at": "2026-04-02T12:16:08.000Z",
+      "article_id": "https://www.construction-physics.com/p/information-and-technological-evolution",
+      "article_link": "https://www.construction-physics.com/p/information-and-technological-evolution"
     },
     "https://feeds.feedburner.com/ruanyifeng": {
       "published_at": "2026-03-26T21:49:12.000Z",
