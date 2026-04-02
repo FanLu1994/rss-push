@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T14:34:45.608Z",
+  "updated_at": "2026-04-02T15:29:56.647Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-02T14:55:41.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681276&idx=1&sn=3de558e3dc50c467321022e9617b07d0"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-04-02T14:15:45.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42847",
-      "article_link": "https://pogueman.substack.com/p/apple-and-me-the-first-50-years?triedRedirect=true"
+      "published_at": "2026-04-02T15:17:27.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42849",
+      "article_link": "https://www.youtube.com/watch?v=vydmUCGQnyI"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-04-01T22:12:13.000Z",
@@ -67,9 +67,9 @@
       "article_link": "http://www.phodal.com/blog/harness-engineering-skill-entrix-skill/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
-      "published_at": "2026-04-01T14:00:00.000Z",
-      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112180",
-      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180"
+      "published_at": "2026-04-02T14:00:00.000Z",
+      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112196",
+      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196"
     },
     "https://shkspr.mobi/blog/feed/": {
       "published_at": "2026-04-02T11:34:07.000Z",
