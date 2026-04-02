@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-02T00:48:27.030Z",
+  "updated_at": "2026-04-02T03:13:55.331Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
-      "published_at": "2026-04-01T09:39:13.000Z",
-      "article_id": "https://ai.hubtoday.app//2026-04/2026-04-01/",
-      "article_link": "https://ai.hubtoday.app//2026-04/2026-04-01/"
+      "published_at": "2026-04-02T09:53:46.000Z",
+      "article_id": "https://ai.hubtoday.app//2026-04/2026-04-02/",
+      "article_link": "https://ai.hubtoday.app//2026-04/2026-04-02/"
     },
     "https://decohack.com/feed/": {
       "published_at": "2026-04-01T08:17:19.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-01/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-01T23:45:03.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47608155",
-      "article_link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/"
+      "published_at": "2026-04-02T02:15:28.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47609241",
+      "article_link": "https://openrouter.ai/arcee-ai/trinity-large-thinking"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-01T02:07:00.000Z",
@@ -82,9 +82,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247501638&idx=1&sn=96c3175554fbc8dee18f77db359cb227"
     },
     "https://blog.uwa4d.com/feed/": {
-      "published_at": "2026-04-01T02:09:00.000Z",
-      "article_id": "https://blog.uwa4d.com/archives/TechSharing_469.html",
-      "article_link": "https://blog.uwa4d.com/archives/TechSharing_469.html"
+      "published_at": "2026-04-02T02:09:00.000Z",
+      "article_id": "https://blog.uwa4d.com/archives/UWA_GPM2_35.html",
+      "article_link": "https://blog.uwa4d.com/archives/UWA_GPM2_35.html"
     },
     "https://nesbitt.io/feed.xml": {
       "published_at": "2026-03-31T10:00:00.000Z",
