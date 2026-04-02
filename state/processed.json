@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T15:29:56.647Z",
+  "updated_at": "2026-04-02T16:28:27.440Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-02T14:55:41.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-02/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-02T13:18:05.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47614100",
-      "article_link": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/"
+      "published_at": "2026-04-02T16:10:54.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47616361",
+      "article_link": "https://deepmind.google/models/gemma/gemma-4/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-02T02:20:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.youtube.com/watch?v=vydmUCGQnyI"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-01T22:12:13.000Z",
-      "article_id": "https://techcrunch.com/?p=3108632",
-      "article_link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/"
+      "published_at": "2026-04-02T16:00:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3108782",
+      "article_link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
