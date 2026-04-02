@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T12:31:23.365Z",
+  "updated_at": "2026-04-02T14:34:45.608Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-02T14:55:41.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-02/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-02T11:59:38.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47613248",
-      "article_link": "https://www.euronews.com/my-europe/2026/04/02/which-european-countries-have-the-best-salaries-after-taxes"
+      "published_at": "2026-04-02T13:18:05.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47614100",
+      "article_link": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-02T02:20:00.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681276&idx=1&sn=3de558e3dc50c467321022e9617b07d0"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-04-02T00:10:29.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42845",
-      "article_link": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html"
+      "published_at": "2026-04-02T14:15:45.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42847",
+      "article_link": "https://pogueman.substack.com/p/apple-and-me-the-first-50-years?triedRedirect=true"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-04-01T22:12:13.000Z",
@@ -52,9 +52,9 @@
       "article_link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
     },
     "https://www.johndcook.com/blog/feed/": {
-      "published_at": "2026-04-01T13:23:42.000Z",
-      "article_id": "https://www.johndcook.com/blog/?p=246933",
-      "article_link": "https://www.johndcook.com/blog/2026/04/01/pentagonal-numbers-are-truncated-triangular-numbers/"
+      "published_at": "2026-04-02T14:14:44.000Z",
+      "article_id": "https://www.johndcook.com/blog/?p=246941",
+      "article_link": "https://www.johndcook.com/blog/2026/04/02/artemis-apollo/"
     },
     "https://buttondown.com/hillelwayne/rss": {
       "published_at": "2026-04-01T17:53:29.000Z",
