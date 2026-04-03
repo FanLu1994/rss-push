@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T01:41:59.081Z",
+  "updated_at": "2026-04-03T03:14:04.209Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -52,9 +52,9 @@
       "article_link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
     },
     "https://www.johndcook.com/blog/feed/": {
-      "published_at": "2026-04-02T14:14:44.000Z",
-      "article_id": "https://www.johndcook.com/blog/?p=246941",
-      "article_link": "https://www.johndcook.com/blog/2026/04/02/artemis-apollo/"
+      "published_at": "2026-04-03T01:38:49.000Z",
+      "article_id": "https://www.johndcook.com/blog/?p=246944",
+      "article_link": "https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/"
     },
     "https://buttondown.com/hillelwayne/rss": {
       "published_at": "2026-04-01T17:53:29.000Z",
@@ -62,9 +62,9 @@
       "article_link": "https://buttondown.com/hillelwayne/archive/april-cools-post-new-york-vs-chicago-pizza/"
     },
     "https://www.phodal.com/blog/feeds/rss/": {
-      "published_at": "2026-03-30T15:03:00.000Z",
-      "article_id": "http://www.phodal.com/blog/harness-engineering-skill-entrix-skill/",
-      "article_link": "http://www.phodal.com/blog/harness-engineering-skill-entrix-skill/"
+      "published_at": "2026-04-03T03:04:00.000Z",
+      "article_id": "http://www.phodal.com/blog/harness-engineering-visulization/",
+      "article_link": "http://www.phodal.com/blog/harness-engineering-visulization/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
       "published_at": "2026-04-02T14:00:00.000Z",
@@ -167,9 +167,9 @@
       "article_link": "https://www.construction-physics.com/p/information-and-technological-evolution"
     },
     "https://feeds.feedburner.com/ruanyifeng": {
-      "published_at": "2026-03-26T21:49:12.000Z",
-      "article_id": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html",
-      "article_link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html"
+      "published_at": "2026-04-03T00:08:02.000Z",
+      "article_id": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html",
+      "article_link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html"
     },
     "https://tw93.fun/feed.xml": {
       "published_at": "2026-03-30T00:00:00.000Z",
@@ -202,9 +202,9 @@
       "article_link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/"
     },
     "https://wiki.eryajf.net/rss.xml": {
-      "published_at": "2026-03-26T21:32:25.000Z",
-      "article_id": "https://wiki.eryajf.net/pages/f71cfa/",
-      "article_link": "https://wiki.eryajf.net/pages/f71cfa/"
+      "published_at": "2026-04-03T08:32:49.000Z",
+      "article_id": "https://wiki.eryajf.net/pages/22ef3d/",
+      "article_link": "https://wiki.eryajf.net/pages/22ef3d/"
     },
     "https://markonreview.com/rss/": {
       "published_at": "2026-03-31T13:58:00.000Z",
@@ -397,9 +397,9 @@
       "article_link": "https://luyuhuang.tech/2026/01/28/programmer-class.html"
     },
     "https://blog.laoda.de/rss.xml": {
-      "published_at": "2026-01-20T07:12:49.000Z",
-      "article_id": "/archives/docker-compose-install-convertx",
-      "article_link": "https://blog.laoda.de/archives/docker-compose-install-convertx"
+      "published_at": "2026-04-03T02:15:29.000Z",
+      "article_id": "/archives/germany-iphone-tax-refund-guide",
+      "article_link": "https://blog.laoda.de/archives/germany-iphone-tax-refund-guide"
     },
     "https://overreacted.io/rss.xml": {
       "published_at": "2026-01-18T00:00:00.000Z",
