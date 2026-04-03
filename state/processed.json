@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T09:27:21.545Z",
+  "updated_at": "2026-04-03T11:21:43.763Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -87,9 +87,9 @@
       "article_link": "https://blog.uwa4d.com/archives/GOTOL_UnrealV8.html"
     },
     "https://nesbitt.io/feed.xml": {
-      "published_at": "2026-03-31T10:00:00.000Z",
-      "article_id": "https://nesbitt.io/2026/03/31/npms-defaults-are-bad",
-      "article_link": "https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html"
+      "published_at": "2026-04-03T10:00:00.000Z",
+      "article_id": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs",
+      "article_link": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html"
     },
     "https://www.joanwestenberg.com/rss/": {
       "published_at": "2026-04-03T06:25:28.000Z",
@@ -172,9 +172,9 @@
       "article_link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html"
     },
     "https://tw93.fun/feed.xml": {
-      "published_at": "2026-03-30T00:00:00.000Z",
-      "article_id": "https://tw93.fun/2026-03-30/kill.html",
-      "article_link": "https://tw93.fun/2026-03-30/kill.html"
+      "published_at": "2026-04-01T00:00:00.000Z",
+      "article_id": "https://tw93.fun/2026-04-01/llm.html",
+      "article_link": "https://tw93.fun/2026-04-01/llm.html"
     },
     "https://www.dwarkesh.com/feed": {
       "published_at": "2026-03-20T16:00:55.000Z",
