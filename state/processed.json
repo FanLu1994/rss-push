@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T20:16:25.282Z",
+  "updated_at": "2026-04-03T21:15:58.003Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-03/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-03T19:17:28.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47630893",
-      "article_link": "https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/"
+      "published_at": "2026-04-03T20:37:17.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47631929",
+      "article_link": "https://rallies.ai/arena"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-03T19:48:22.000Z",
-      "article_id": "https://techcrunch.com/?p=3109180",
-      "article_link": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/"
+      "published_at": "2026-04-03T20:35:34.000Z",
+      "article_id": "https://techcrunch.com/?p=3109304",
+      "article_link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -47,9 +47,9 @@
       "article_link": "https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances"
     },
     "https://www.wheresyoured.at/rss/": {
-      "published_at": "2026-03-31T16:18:11.000Z",
-      "article_id": "69cbe158e4b26b000151c4ae",
-      "article_link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
+      "published_at": "2026-04-03T21:11:26.000Z",
+      "article_id": "69d015d74271470001c8ae7e",
+      "article_link": "https://www.wheresyoured.at/premium-ai-isnt-too-big-to-fail/"
     },
     "https://www.johndcook.com/blog/feed/": {
       "published_at": "2026-04-03T16:31:54.000Z",
