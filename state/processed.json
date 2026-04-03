@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T11:21:43.763Z",
+  "updated_at": "2026-04-03T12:25:16.605Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -72,9 +72,9 @@
       "article_link": "https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196"
     },
     "https://shkspr.mobi/blog/feed/": {
-      "published_at": "2026-04-02T11:34:07.000Z",
-      "article_id": "https://shkspr.mobi/blog/?p=69993",
-      "article_link": "https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/"
+      "published_at": "2026-04-03T11:34:34.000Z",
+      "article_id": "https://shkspr.mobi/blog/?p=69922",
+      "article_link": "https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/"
     },
     "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml": {
       "published_at": "2026-04-01T20:00:00.000Z",
@@ -122,9 +122,9 @@
       "article_link": "https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor"
     },
     "https://idiallo.com/feed.rss": {
-      "published_at": "2026-04-01T22:15:39.000Z",
-      "article_id": "https://idiallo.com/byte-size/blogging-year-13?src=feed",
-      "article_link": "https://idiallo.com/byte-size/blogging-year-13?src=feed"
+      "published_at": "2026-04-03T12:00:00.000Z",
+      "article_id": "https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed",
+      "article_link": "https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed"
     },
     "https://www.iyouhun.com/rss.php": {
       "published_at": "2026-03-31T06:54:14.000Z",
