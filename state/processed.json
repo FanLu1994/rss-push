@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T00:47:42.147Z",
+  "updated_at": "2026-04-04T01:41:02.147Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-03T20:35:34.000Z",
-      "article_id": "https://techcrunch.com/?p=3109304",
-      "article_link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/"
+      "published_at": "2026-04-04T01:31:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3109207",
+      "article_link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/t26001/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-04-03T00:32:35.000Z",
-      "article_id": "https://tonybai.com/?p=6139",
-      "article_link": "https://tonybai.com/2026/04/03/agentic-api-in-action/"
+      "published_at": "2026-04-04T00:45:30.000Z",
+      "article_id": "https://tonybai.com/?p=6146",
+      "article_link": "https://tonybai.com/2026/04/04/the-death-of-coding-joy-in-the-age-of-ai-agents/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-04-03T23:50:00.000Z",
