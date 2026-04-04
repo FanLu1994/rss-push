@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T18:17:59.020Z",
+  "updated_at": "2026-04-04T20:13:36.082Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-04/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-04T18:01:11.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47641555",
-      "article_link": "https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj"
+      "published_at": "2026-04-04T18:06:24.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47641615",
+      "article_link": "http://www.sopwith.org/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
