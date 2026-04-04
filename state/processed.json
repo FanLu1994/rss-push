@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T08:20:17.681Z",
+  "updated_at": "2026-04-04T11:14:27.458Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-04/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-04T06:30:25.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47636435",
-      "article_link": "https://www.anthropic.com/research/emotion-concepts-function"
+      "published_at": "2026-04-04T09:04:19.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47637287",
+      "article_link": "https://thoughts.wyounas.com/p/some-unusual-trees"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -87,9 +87,9 @@
       "article_link": "https://blog.uwa4d.com/archives/GOTOL_UnrealV8.html"
     },
     "https://nesbitt.io/feed.xml": {
-      "published_at": "2026-04-03T10:00:00.000Z",
-      "article_id": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs",
-      "article_link": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html"
+      "published_at": "2026-04-04T10:00:00.000Z",
+      "article_id": "https://nesbitt.io/2026/04/04/what-does-open-source-mean",
+      "article_link": "https://nesbitt.io/2026/04/04/what-does-open-source-mean.html"
     },
     "https://www.joanwestenberg.com/rss/": {
       "published_at": "2026-04-03T06:25:28.000Z",
@@ -197,9 +197,9 @@
       "article_link": "https://baoyu.io/blog/openai-president-greg-brockman-ai-self-improvement-the-superapp-bet-path-to-agi-scaling-compute"
     },
     "https://lucumr.pocoo.org/feed.atom": {
-      "published_at": "2026-03-20T00:00:00.000Z",
-      "article_id": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "article_link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/"
+      "published_at": "2026-04-04T00:00:00.000Z",
+      "article_id": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
+      "article_link": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/"
     },
     "https://wiki.eryajf.net/rss.xml": {
       "published_at": "2026-04-03T08:32:49.000Z",
