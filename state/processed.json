@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T15:14:26.819Z",
+  "updated_at": "2026-04-04T16:15:25.917Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-04/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-04T14:48:26.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47639524",
-      "article_link": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf"
+      "published_at": "2026-04-04T15:39:10.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47639976",
+      "article_link": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -97,9 +97,9 @@
       "article_link": "https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/"
     },
     "https://susam.net/feed.xml": {
-      "published_at": "2026-03-30T00:00:00.000Z",
-      "article_id": "mtsnt",
-      "article_link": "https://susam.net/26c.html"
+      "published_at": "2026-04-04T00:00:00.000Z",
+      "article_id": "wnzfz",
+      "article_link": "https://susam.net/code/news/wander/0.4.0.html"
     },
     "https://entropicthoughts.com/feed.xml": {
       "published_at": "2026-03-30T22:00:00.000Z",
