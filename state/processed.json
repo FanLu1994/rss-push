@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T16:15:25.917Z",
+  "updated_at": "2026-04-04T17:14:44.539Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-03T09:36:37.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-04/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-04T15:39:10.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47639976",
-      "article_link": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677"
+      "published_at": "2026-04-04T16:45:54.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47640728",
+      "article_link": "https://jaso1024.com/mvidia/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-04T01:31:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3109207",
-      "article_link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/"
+      "published_at": "2026-04-04T16:32:22.000Z",
+      "article_id": "https://techcrunch.com/?p=3109429",
+      "article_link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-03-25T00:00:00.000Z",
