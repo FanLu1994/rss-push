@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T10:16:34.961Z",
+  "updated_at": "2026-04-05T11:14:28.087Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-05T08:07:27.000Z",
@@ -32,9 +32,9 @@
       "article_link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"
     },
     "https://blog.sakoamc.com/atom.xml": {
-      "published_at": "2026-03-25T00:00:00.000Z",
-      "article_id": "https://blog.sakoamc.com/posts/t26001/",
-      "article_link": "https://blog.sakoamc.com/posts/t26001/"
+      "published_at": "2026-04-05T00:00:00.000Z",
+      "article_id": "https://blog.sakoamc.com/posts/261314/",
+      "article_link": "https://blog.sakoamc.com/posts/261314/"
     },
     "https://tonybai.com/feed/": {
       "published_at": "2026-04-04T00:45:30.000Z",
