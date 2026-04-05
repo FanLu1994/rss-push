@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T22:13:30.753Z",
+  "updated_at": "2026-04-05T23:15:34.550Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-05T08:07:27.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-05/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-05T21:14:40.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47653954",
-      "article_link": "https://joeyh.name/blog/entry/policy_on_adding_AI_generated_content_to_my_software_projects/"
+      "published_at": "2026-04-05T22:54:29.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47654757",
+      "article_link": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -52,9 +52,9 @@
       "article_link": "https://www.wheresyoured.at/premium-ai-isnt-too-big-to-fail/"
     },
     "https://www.johndcook.com/blog/feed/": {
-      "published_at": "2026-04-04T15:00:14.000Z",
-      "article_id": "https://www.johndcook.com/blog/?p=246946",
-      "article_link": "https://www.johndcook.com/blog/2026/04/04/kalman-bayes/"
+      "published_at": "2026-04-05T23:04:46.000Z",
+      "article_id": "https://www.johndcook.com/blog/?p=246947",
+      "article_link": "https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/"
     },
     "https://buttondown.com/hillelwayne/rss": {
       "published_at": "2026-04-01T17:53:29.000Z",
