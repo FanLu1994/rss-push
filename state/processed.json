@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T00:54:30.360Z",
+  "updated_at": "2026-04-05T01:41:35.105Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-05T08:07:27.000Z",
@@ -22,7 +22,7 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681328&idx=1&sn=ef7b6d4a0ba5bb46313c142da225190b"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-04-05T00:45:12.000Z",
+      "published_at": "2026-04-05T01:00:00.000Z",
       "article_id": "tag:daringfireball.net,2026:/linked//6.42859",
       "article_link": "https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball"
     },
@@ -182,9 +182,9 @@
       "article_link": "https://www.dwarkesh.com/p/terence-tao"
     },
     "https://blog.zhheo.com/rss.xml": {
-      "published_at": "2026-04-02T07:13:58.000Z",
-      "article_id": "https://blog.zhheo.com/p/bublpdof.html",
-      "article_link": "https://blog.zhheo.com/p/bublpdof.html"
+      "published_at": "2026-04-05T00:41:04.000Z",
+      "article_id": "https://blog.zhheo.com/p/idp0qt15.html",
+      "article_link": "https://blog.zhheo.com/p/idp0qt15.html"
     },
     "https://tech.meituan.com/feed/": {
       "published_at": "2026-03-20T00:00:00.000Z",
