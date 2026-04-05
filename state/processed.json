@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T11:14:28.087Z",
+  "updated_at": "2026-04-05T12:21:50.348Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-05T08:07:27.000Z",
@@ -72,9 +72,9 @@
       "article_link": "https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202"
     },
     "https://shkspr.mobi/blog/feed/": {
-      "published_at": "2026-04-04T11:34:13.000Z",
-      "article_id": "https://shkspr.mobi/blog/?p=70043",
-      "article_link": "https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/"
+      "published_at": "2026-04-05T11:34:03.000Z",
+      "article_id": "https://shkspr.mobi/blog/?p=68665",
+      "article_link": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/"
     },
     "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml": {
       "published_at": "2026-04-01T20:00:00.000Z",
