@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T01:41:35.105Z",
+  "updated_at": "2026-04-05T03:14:00.986Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-05T08:07:27.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-04/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-05T00:13:55.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47644864",
-      "article_link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop"
+      "published_at": "2026-04-05T01:54:29.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47645432",
+      "article_link": "https://composerprogrammer.com/introductiontocomputermusic.pdf"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
