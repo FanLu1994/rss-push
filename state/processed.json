@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T17:24:26.550Z",
+  "updated_at": "2026-04-06T18:29:06.893Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-06T09:49:31.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-06/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-06T16:40:46.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47663285",
-      "article_link": "https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/"
+      "published_at": "2026-04-06T17:38:30.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47664205",
+      "article_link": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-06T15:55:55.000Z",
-      "article_id": "https://techcrunch.com/?p=3109575",
-      "article_link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"
+      "published_at": "2026-04-06T18:06:28.000Z",
+      "article_id": "https://techcrunch.com/?p=3109661",
+      "article_link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
