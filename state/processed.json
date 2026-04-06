@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T14:27:59.086Z",
+  "updated_at": "2026-04-06T15:24:03.182Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-06T09:49:31.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://truthsocial.com/@realDonaldTrump/posts/116351998782539414"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-06T14:11:42.000Z",
-      "article_id": "https://techcrunch.com/?p=3062029",
-      "article_link": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/"
+      "published_at": "2026-04-06T14:30:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3109473",
+      "article_link": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
@@ -47,9 +47,9 @@
       "article_link": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32"
     },
     "https://www.wheresyoured.at/rss/": {
-      "published_at": "2026-04-03T21:11:26.000Z",
-      "article_id": "69d015d74271470001c8ae7e",
-      "article_link": "https://www.wheresyoured.at/premium-ai-isnt-too-big-to-fail/"
+      "published_at": "2026-04-06T14:49:40.000Z",
+      "article_id": "69d3c135a3341e0001721394",
+      "article_link": "https://www.wheresyoured.at/openai-cfo-news/"
     },
     "https://www.johndcook.com/blog/feed/": {
       "published_at": "2026-04-05T23:04:46.000Z",
@@ -137,9 +137,9 @@
       "article_link": "https://www.abortretry.fail/p/hitachi-ltd-part-i"
     },
     "https://weekly.tw93.fun/rss.xml": {
-      "published_at": "2026-03-30T00:00:00.000Z",
-      "article_id": "https://weekly.tw93.fun/posts/262/",
-      "article_link": "https://weekly.tw93.fun/posts/262/"
+      "published_at": "2026-04-06T00:00:00.000Z",
+      "article_id": "https://weekly.tw93.fun/posts/263/",
+      "article_link": "https://weekly.tw93.fun/posts/263/"
     },
     "https://aigc-weekly.agi.li/rss.xml": {
       "published_at": "2026-04-05T12:00:00.000Z",
@@ -147,9 +147,9 @@
       "article_link": "https://aigc-weekly.agi.li/weekly/Y26W13"
     },
     "https://www.luozhiyun.com/feed": {
-      "published_at": "2026-03-22T09:51:12.000Z",
-      "article_id": "https://www.luozhiyun.com/?p=915",
-      "article_link": "https://www.luozhiyun.com/archives/915"
+      "published_at": "2026-04-06T14:47:01.000Z",
+      "article_id": "https://www.luozhiyun.com/?p=918",
+      "article_link": "https://www.luozhiyun.com/archives/918"
     },
     "https://z.arlmy.me/atom.xml": {
       "published_at": "2026-04-06T08:57:14.000Z",
