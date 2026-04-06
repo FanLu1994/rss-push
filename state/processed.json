@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T23:15:34.550Z",
+  "updated_at": "2026-04-06T00:53:33.199Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-05T08:07:27.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-05/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-05T22:54:29.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47654757",
-      "article_link": "https://www.tomshardware.com/tech-industry/iran-threatens-complete-and-utter-annihilation-of-openais-usd30b-stargate-ai-data-center-in-abu-dhabi-regime-posts-video-with-satellite-imagery-of-chatgpt-makers-premier-1gw-data-center"
+      "published_at": "2026-04-06T00:09:45.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47655338",
+      "article_link": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/261314/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-04-04T00:45:30.000Z",
-      "article_id": "https://tonybai.com/?p=6146",
-      "article_link": "https://tonybai.com/2026/04/04/the-death-of-coding-joy-in-the-age-of-ai-agents/"
+      "published_at": "2026-04-06T00:27:24.000Z",
+      "article_id": "https://tonybai.com/?p=6150",
+      "article_link": "https://tonybai.com/2026/04/06/how-to-write-unmaintainable-code/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-04-03T23:50:00.000Z",
