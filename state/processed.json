@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T15:24:03.182Z",
+  "updated_at": "2026-04-06T16:23:54.355Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-06T09:49:31.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-06/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-06T13:52:37.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47660954",
-      "article_link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+      "published_at": "2026-04-06T16:15:41.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47662857",
+      "article_link": "https://twitter.com/Suzierizzo1/status/2040864617467924865"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://truthsocial.com/@realDonaldTrump/posts/116351998782539414"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-06T14:30:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3109473",
-      "article_link": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/"
+      "published_at": "2026-04-06T15:55:55.000Z",
+      "article_id": "https://techcrunch.com/?p=3109575",
+      "article_link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
@@ -67,9 +67,9 @@
       "article_link": "http://www.phodal.com/blog/harness-engineering-visulization/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
-      "published_at": "2026-04-03T14:00:00.000Z",
-      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112202",
-      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202"
+      "published_at": "2026-04-06T14:00:00.000Z",
+      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112208",
+      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208"
     },
     "https://shkspr.mobi/blog/feed/": {
       "published_at": "2026-04-06T11:34:00.000Z",
