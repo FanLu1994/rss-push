@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T11:24:52.924Z",
+  "updated_at": "2026-04-06T12:29:07.620Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-06T09:49:31.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-06/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-06T10:54:11.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47659252",
-      "article_link": "https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873"
+      "published_at": "2026-04-06T11:39:03.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47659609",
+      "article_link": "https://twitter.com/__tinygrad__/status/2040944508402360592"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -72,9 +72,9 @@
       "article_link": "https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202"
     },
     "https://shkspr.mobi/blog/feed/": {
-      "published_at": "2026-04-05T11:34:03.000Z",
-      "article_id": "https://shkspr.mobi/blog/?p=68665",
-      "article_link": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/"
+      "published_at": "2026-04-06T11:34:00.000Z",
+      "article_id": "https://shkspr.mobi/blog/?p=70063",
+      "article_link": "https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/"
     },
     "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml": {
       "published_at": "2026-04-01T20:00:00.000Z",
@@ -107,9 +107,9 @@
       "article_link": "https://entropicthoughts.com/mvc-mistake"
     },
     "https://elmagnifico.tech/feed.xml": {
-      "published_at": "2026-03-26T16:00:00.000Z",
-      "article_id": "https://elmagnifico.tech/2026/03/27/Art-Aesthetics3/",
-      "article_link": "https://elmagnifico.tech/2026/03/27/Art-Aesthetics3/"
+      "published_at": "2026-04-05T16:00:00.000Z",
+      "article_id": "https://elmagnifico.tech/2026/04/06/AC-Replay2AILine/",
+      "article_link": "https://elmagnifico.tech/2026/04/06/AC-Replay2AILine/"
     },
     "https://krebsonsecurity.com/feed/": {
       "published_at": "2026-04-06T02:07:17.000Z",
