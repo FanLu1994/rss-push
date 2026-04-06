@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T18:29:06.893Z",
+  "updated_at": "2026-04-06T19:29:32.985Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-06T09:49:31.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-06/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-06T17:38:30.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47664205",
-      "article_link": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/"
+      "published_at": "2026-04-06T18:53:15.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47665194",
+      "article_link": "https://news.ycombinator.com/item?id=47665194"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-03T02:09:00.000Z",
@@ -22,14 +22,14 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681328&idx=1&sn=ef7b6d4a0ba5bb46313c142da225190b"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-04-06T16:39:26.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42863",
-      "article_link": "https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/"
+      "published_at": "2026-04-06T19:15:05.000Z",
+      "article_id": "tag:daringfireball.net,2026:/feeds/sponsors//11.42865",
+      "article_link": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-06T18:06:28.000Z",
-      "article_id": "https://techcrunch.com/?p=3109661",
-      "article_link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/"
+      "published_at": "2026-04-06T18:54:33.000Z",
+      "article_id": "https://techcrunch.com/?p=3109710",
+      "article_link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
