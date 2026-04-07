@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T14:42:17.873Z",
+  "updated_at": "2026-04-07T15:38:12.810Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-07T09:57:12.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-07/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-07T13:50:27.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47675372",
-      "article_link": "https://has-electricity-decoupled-yet.strommarktberatung.de"
+      "published_at": "2026-04-07T15:04:23.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47676521",
+      "article_link": "https://github.com/anthropics/claude-code/issues/44257"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-07T02:04:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-07T14:00:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3110003",
-      "article_link": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/"
+      "published_at": "2026-04-07T15:30:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3110045",
+      "article_link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
