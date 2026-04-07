@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T17:28:52.131Z",
+  "updated_at": "2026-04-07T18:28:42.612Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-07T09:57:12.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-07/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-07T16:33:57.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47677885",
-      "article_link": "https://printervention.app/details"
+      "published_at": "2026-04-07T18:18:36.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47679258",
+      "article_link": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-07T02:04:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-07T16:46:59.000Z",
-      "article_id": "https://techcrunch.com/?p=3110079",
-      "article_link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/"
+      "published_at": "2026-04-07T18:10:01.000Z",
+      "article_id": "https://techcrunch.com/?p=3110172",
+      "article_link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
@@ -377,9 +377,9 @@
       "article_link": "https://networm.me/2026/03/22/unity-spine-import-slow/"
     },
     "https://mitchellh.com/feed.xml": {
-      "published_at": "2026-02-05T00:00:00.000Z",
-      "article_id": "https://mitchellh.com/writing/my-ai-adoption-journey",
-      "article_link": "https://mitchellh.com/writing/my-ai-adoption-journey"
+      "published_at": "2026-04-07T00:00:00.000Z",
+      "article_id": "https://mitchellh.com/writing/building-block-economy",
+      "article_link": "https://mitchellh.com/writing/building-block-economy"
     },
     "https://skyfall.dev/rss.xml": {
       "published_at": "2026-02-13T00:00:00.000Z",
