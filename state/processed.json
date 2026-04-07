@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T15:38:12.810Z",
+  "updated_at": "2026-04-07T16:30:53.346Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-07T09:57:12.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-07/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-07T15:04:23.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47676521",
-      "article_link": "https://github.com/anthropics/claude-code/issues/44257"
+      "published_at": "2026-04-07T15:54:16.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47677241",
+      "article_link": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-07T02:04:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-07T15:30:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3110045",
-      "article_link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/"
+      "published_at": "2026-04-07T16:05:56.000Z",
+      "article_id": "https://techcrunch.com/?p=3110066",
+      "article_link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
@@ -177,9 +177,9 @@
       "article_link": "https://tw93.fun/2026-04-06/learn.html"
     },
     "https://www.dwarkesh.com/feed": {
-      "published_at": "2026-03-20T16:00:55.000Z",
-      "article_id": "https://www.dwarkesh.com/p/terence-tao",
-      "article_link": "https://www.dwarkesh.com/p/terence-tao"
+      "published_at": "2026-04-07T15:49:28.000Z",
+      "article_id": "https://www.dwarkesh.com/p/michael-nielsen",
+      "article_link": "https://www.dwarkesh.com/p/michael-nielsen"
     },
     "https://blog.zhheo.com/rss.xml": {
       "published_at": "2026-04-07T05:59:22.000Z",
@@ -372,9 +372,9 @@
       "article_link": "https://blog.gotocoding.com/archives/2042?utm_source=rss&utm_medium=rss&utm_campaign=%25e9%25a6%2596%25e6%25ac%25a1%25e5%259c%25a8%25e7%2594%259f%25e4%25ba%25a7%25e7%258e%25af%25e5%25a2%2583%25e4%25bd%25bf%25e7%2594%25a8-vibe-coding"
     },
     "https://networm.me/tags/unity/index.xml": {
-      "published_at": "2026-02-08T15:49:58.000Z",
-      "article_id": "https://networm.me/2026/02/08/unity-startup-profiler/",
-      "article_link": "https://networm.me/2026/02/08/unity-startup-profiler/"
+      "published_at": "2026-03-22T15:29:46.000Z",
+      "article_id": "https://networm.me/2026/03/22/unity-spine-import-slow/",
+      "article_link": "https://networm.me/2026/03/22/unity-spine-import-slow/"
     },
     "https://mitchellh.com/feed.xml": {
       "published_at": "2026-02-05T00:00:00.000Z",
