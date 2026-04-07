@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T09:33:28.682Z",
+  "updated_at": "2026-04-07T10:29:49.884Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-07T09:57:12.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-07/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-07T08:38:17.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47672295",
-      "article_link": "https://sheets.works/data-viz/every-gpu"
+      "published_at": "2026-04-07T09:29:11.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47672642",
+      "article_link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-07T02:04:00.000Z",
