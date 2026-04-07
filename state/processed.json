@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T12:32:09.838Z",
+  "updated_at": "2026-04-07T14:42:17.873Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-07T09:57:12.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-07/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-07T11:29:02.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47673541",
-      "article_link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/"
+      "published_at": "2026-04-07T13:50:27.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47675372",
+      "article_link": "https://has-electricity-decoupled-yet.strommarktberatung.de"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-07T02:04:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-07T05:30:00.000Z",
-      "article_id": "https://techcrunch.com/?p=3109837",
-      "article_link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/"
+      "published_at": "2026-04-07T14:00:00.000Z",
+      "article_id": "https://techcrunch.com/?p=3110003",
+      "article_link": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
@@ -152,9 +152,9 @@
       "article_link": "https://www.luozhiyun.com/archives/918"
     },
     "https://z.arlmy.me/atom.xml": {
-      "published_at": "2026-04-06T08:57:14.000Z",
-      "article_id": "https://z.arlmy.me/posts/Review/Review_CaveOfForgottenDreams/",
-      "article_link": "https://z.arlmy.me/posts/Review/Review_CaveOfForgottenDreams/"
+      "published_at": "2026-04-07T01:22:14.000Z",
+      "article_id": "https://z.arlmy.me/posts/Review/Review_SummerFadesAway_2026/",
+      "article_link": "https://z.arlmy.me/posts/Review/Review_SummerFadesAway_2026/"
     },
     "https://evanhahn.com/blog/index.xml": {
       "published_at": "2026-03-31T00:00:00.000Z",
