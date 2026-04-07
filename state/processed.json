@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T22:19:21.556Z",
+  "updated_at": "2026-04-07T23:19:52.779Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-07T09:57:12.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681343&idx=1&sn=5d8f0ed39a3cc8d9593367251a136fdd"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-04-07T22:07:08.000Z",
-      "article_id": "tag:daringfireball.net,2026://1.42869",
-      "article_link": "https://daringfireball.net/2026/04/openai_future"
+      "published_at": "2026-04-07T22:23:27.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42871",
+      "article_link": "https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-04-07T21:35:02.000Z",
