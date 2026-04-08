@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T23:19:52.779Z",
+  "updated_at": "2026-04-08T00:52:04.943Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-07T09:57:12.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-07/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-07T21:41:06.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47681701",
-      "article_link": "https://www.redox-os.org/news/rsoc-dwrr/"
+      "published_at": "2026-04-08T00:16:22.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47683033",
+      "article_link": "https://apnews.com/live/iran-war-israel-trump-04-07-2026"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-07T02:04:00.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/261314/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-04-07T00:17:15.000Z",
-      "article_id": "https://tonybai.com/?p=6154",
-      "article_link": "https://tonybai.com/2026/04/07/garbage-collectors-deep-dive/"
+      "published_at": "2026-04-08T00:15:14.000Z",
+      "article_id": "https://tonybai.com/?p=6158",
+      "article_link": "https://tonybai.com/2026/04/08/perspective-on-quantum-computing-timeline/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-04-07T21:00:00.000Z",
@@ -622,9 +622,9 @@
       "article_link": "https://cn.thelynan.com/a-mini-trip-in-macau/"
     },
     "https://echosoar.github.io/weekly/atom.xml": {
-      "published_at": "2026-04-01T00:00:00.000Z",
-      "article_id": "https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html",
-      "article_link": "https://echosoar.github.io/weekly/2026/04/01/第177期-偷懒爱好者周刊.html"
+      "published_at": "2026-04-08T00:00:00.000Z",
+      "article_id": "https://echosoar.github.io/weekly/2026/04/08/第178期-偷懒爱好者周刊.html",
+      "article_link": "https://echosoar.github.io/weekly/2026/04/08/第178期-偷懒爱好者周刊.html"
     }
   }
 }
