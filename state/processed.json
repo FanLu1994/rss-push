@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T10:31:02.890Z",
+  "updated_at": "2026-04-08T11:26:47.791Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-08T10:42:40.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-08/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-08T08:50:37.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47687248",
-      "article_link": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/"
+      "published_at": "2026-04-08T09:41:56.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47687755",
+      "article_link": "https://firstthings.com/struggle-against-the-gods/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-08T05:48:00.000Z",
@@ -87,9 +87,9 @@
       "article_link": "https://blog.uwa4d.com/archives/Usparkle_PhysicalWorld.html"
     },
     "https://nesbitt.io/feed.xml": {
-      "published_at": "2026-04-07T10:00:00.000Z",
-      "article_id": "https://nesbitt.io/2026/04/07/who-built-this",
-      "article_link": "https://nesbitt.io/2026/04/07/who-built-this.html"
+      "published_at": "2026-04-08T10:00:00.000Z",
+      "article_id": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents",
+      "article_link": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
     },
     "https://www.joanwestenberg.com/rss/": {
       "published_at": "2026-04-06T23:36:11.000Z",
