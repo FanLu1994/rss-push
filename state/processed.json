@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T18:37:46.182Z",
+  "updated_at": "2026-04-08T19:35:52.530Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-08T10:42:40.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-08/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-08T17:11:46.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47693153",
-      "article_link": "https://kalmanfilter.net"
+      "published_at": "2026-04-08T18:13:22.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47694093",
+      "article_link": "https://joshghent.com/online-shopping/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-08T05:48:00.000Z",
