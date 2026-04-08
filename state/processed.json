@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T04:57:37.231Z",
+  "updated_at": "2026-04-08T05:41:36.573Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-08T10:42:40.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-07T21:35:02.000Z",
-      "article_id": "https://techcrunch.com/?p=3110230",
-      "article_link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/"
+      "published_at": "2026-04-08T05:40:19.000Z",
+      "article_id": "https://techcrunch.com/?p=3109710",
+      "article_link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
