@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T18:29:56.890Z",
+  "updated_at": "2026-04-09T19:33:40.742Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-09T09:32:19.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-09/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-09T18:09:19.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47707253",
-      "article_link": "https://chatgpt.com/pricing/"
+      "published_at": "2026-04-09T18:53:20.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47708041",
+      "article_link": "https://eaw.app/picoz80/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-08T05:48:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-09T18:27:47.000Z",
-      "article_id": "https://techcrunch.com/?p=3110988",
-      "article_link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/"
+      "published_at": "2026-04-09T19:10:07.000Z",
+      "article_id": "https://techcrunch.com/?p=3110997",
+      "article_link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
@@ -42,9 +42,9 @@
       "article_link": "https://tonybai.com/2026/04/09/stop-being-small-and-beautiful-rust-petition-to-learn-from-go/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
-      "published_at": "2026-04-07T21:00:00.000Z",
-      "article_id": "/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise",
-      "article_link": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise"
+      "published_at": "2026-04-09T20:00:00.000Z",
+      "article_id": "/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud",
+      "article_link": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud"
     },
     "https://www.wheresyoured.at/rss/": {
       "published_at": "2026-04-08T15:48:32.000Z",
