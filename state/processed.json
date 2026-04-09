@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T12:35:05.098Z",
+  "updated_at": "2026-04-09T13:41:15.009Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-09T09:32:19.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-09/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-09T12:11:56.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47702647",
-      "article_link": "https://www.relvy.ai"
+      "published_at": "2026-04-09T12:57:10.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47703123",
+      "article_link": "https://pizzalegacy.nl/blog/traffic-system.html"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-08T05:48:00.000Z",
