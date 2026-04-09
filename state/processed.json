@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T16:39:35.327Z",
+  "updated_at": "2026-04-09T17:30:51.625Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-09T09:32:19.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-09/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-09T16:04:54.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47705413",
-      "article_link": "https://github.com/randerson112/craft"
+      "published_at": "2026-04-09T17:08:04.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47706268",
+      "article_link": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-08T05:48:00.000Z",
@@ -22,14 +22,14 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681384&idx=1&sn=ade200ec983456f60be9d6ccffc258d1"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-04-08T15:49:15.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42872",
-      "article_link": "https://red.anthropic.com/2026/mythos-preview/"
+      "published_at": "2026-04-09T17:10:48.000Z",
+      "article_id": "tag:daringfireball.net,2026:/linked//6.42873",
+      "article_link": "https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-09T14:27:57.000Z",
-      "article_id": "https://techcrunch.com/?p=3110724",
-      "article_link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/"
+      "published_at": "2026-04-09T17:20:50.000Z",
+      "article_id": "https://techcrunch.com/?p=3110892",
+      "article_link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
@@ -202,9 +202,9 @@
       "article_link": "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/"
     },
     "https://wiki.eryajf.net/rss.xml": {
-      "published_at": "2026-04-03T08:32:49.000Z",
-      "article_id": "https://wiki.eryajf.net/pages/22ef3d/",
-      "article_link": "https://wiki.eryajf.net/pages/22ef3d/"
+      "published_at": "2026-04-09T21:50:19.000Z",
+      "article_id": "https://wiki.eryajf.net/pages/323cfa/",
+      "article_link": "https://wiki.eryajf.net/pages/323cfa/"
     },
     "https://markonreview.com/rss/": {
       "published_at": "2026-04-03T08:25:24.000Z",
