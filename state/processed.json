@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T08:41:47.012Z",
+  "updated_at": "2026-04-09T10:33:38.661Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-09T09:32:19.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-09/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-09T07:39:47.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47700460",
-      "article_link": "https://news.ycombinator.com/item?id=47700460"
+      "published_at": "2026-04-09T09:25:28.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47701233",
+      "article_link": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-08T05:48:00.000Z",
@@ -62,9 +62,9 @@
       "article_link": "https://buttondown.com/hillelwayne/archive/april-cools-post-new-york-vs-chicago-pizza/"
     },
     "https://www.phodal.com/blog/feeds/rss/": {
-      "published_at": "2026-04-08T08:30:00.000Z",
-      "article_id": "http://www.phodal.com/blog/phodal-writer-skill/",
-      "article_link": "http://www.phodal.com/blog/phodal-writer-skill/"
+      "published_at": "2026-04-09T09:41:00.000Z",
+      "article_id": "http://www.phodal.com/blog/harness-engineering-gate-first/",
+      "article_link": "http://www.phodal.com/blog/harness-engineering-gate-first/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
       "published_at": "2026-04-08T14:00:00.000Z",
@@ -182,9 +182,9 @@
       "article_link": "https://www.dwarkesh.com/p/michael-nielsen"
     },
     "https://blog.zhheo.com/rss.xml": {
-      "published_at": "2026-04-09T02:38:51.000Z",
-      "article_id": "https://blog.zhheo.com/p/ulmdpqpw.html",
-      "article_link": "https://blog.zhheo.com/p/ulmdpqpw.html"
+      "published_at": "2026-04-09T09:33:22.000Z",
+      "article_id": "https://blog.zhheo.com/p/9ekjlgs4.html",
+      "article_link": "https://blog.zhheo.com/p/9ekjlgs4.html"
     },
     "https://tech.meituan.com/feed/": {
       "published_at": "2026-04-07T00:00:00.000Z",
