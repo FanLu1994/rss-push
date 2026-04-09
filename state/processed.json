@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T13:41:15.009Z",
+  "updated_at": "2026-04-09T16:39:35.327Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-09T09:32:19.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-09/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-09T12:57:10.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47703123",
-      "article_link": "https://pizzalegacy.nl/blog/traffic-system.html"
+      "published_at": "2026-04-09T16:04:54.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47705413",
+      "article_link": "https://github.com/randerson112/craft"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-08T05:48:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://red.anthropic.com/2026/mythos-preview/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-08T21:05:13.000Z",
-      "article_id": "https://techcrunch.com/?p=3110530",
-      "article_link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+      "published_at": "2026-04-09T14:27:57.000Z",
+      "article_id": "https://techcrunch.com/?p=3110724",
+      "article_link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
@@ -67,9 +67,9 @@
       "article_link": "http://www.phodal.com/blog/harness-engineering-gate-first/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
-      "published_at": "2026-04-08T14:00:00.000Z",
-      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112218",
-      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218"
+      "published_at": "2026-04-09T14:00:00.000Z",
+      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112220",
+      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220"
     },
     "https://shkspr.mobi/blog/feed/": {
       "published_at": "2026-04-09T11:34:59.000Z",
