@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T11:28:08.310Z",
+  "updated_at": "2026-04-09T12:35:05.098Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-09T09:32:19.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-09/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-09T10:10:19.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47701572",
-      "article_link": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us"
+      "published_at": "2026-04-09T12:11:56.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47702647",
+      "article_link": "https://www.relvy.ai"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-08T05:48:00.000Z",
@@ -72,9 +72,9 @@
       "article_link": "https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218"
     },
     "https://shkspr.mobi/blog/feed/": {
-      "published_at": "2026-04-08T11:34:25.000Z",
-      "article_id": "https://shkspr.mobi/blog/?p=70160",
-      "article_link": "https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/"
+      "published_at": "2026-04-09T11:34:59.000Z",
+      "article_id": "https://shkspr.mobi/blog/?p=70017",
+      "article_link": "https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/"
     },
     "https://wechat2rss.bestblogs.dev/feed/484d4199ae6c0b72ea01e7e0597a1f74933dfb62.xml": {
       "published_at": "2026-04-09T01:52:00.000Z",
@@ -162,9 +162,9 @@
       "article_link": "https://evanhahn.com/notes-from-march-2026/"
     },
     "https://www.construction-physics.com/feed": {
-      "published_at": "2026-04-04T12:01:48.000Z",
-      "article_id": "https://www.construction-physics.com/p/reading-list-04042026",
-      "article_link": "https://www.construction-physics.com/p/reading-list-04042026"
+      "published_at": "2026-04-09T12:03:42.000Z",
+      "article_id": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "article_link": "https://www.construction-physics.com/p/helium-is-hard-to-replace"
     },
     "https://feeds.feedburner.com/ruanyifeng": {
       "published_at": "2026-04-03T00:08:02.000Z",
@@ -212,9 +212,9 @@
       "article_link": "https://markonreview.com/2026/04/03/markon-review-express-weekly-35/"
     },
     "https://dynomight.net/feed.xml": {
-      "published_at": "2026-03-18T00:00:00.000Z",
-      "article_id": "https://dynomight.net/coffee",
-      "article_link": "https://dynomight.net/coffee/"
+      "published_at": "2026-04-09T00:00:00.000Z",
+      "article_id": "https://dynomight.net/drinking",
+      "article_link": "https://dynomight.net/drinking/"
     },
     "https://xeiaso.net/blog.rss": {
       "published_at": "2026-04-01T00:00:00.000Z",
