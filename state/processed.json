@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T23:20:45.703Z",
+  "updated_at": "2026-04-09T00:43:47.958Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-08T10:42:40.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/261314/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-04-08T00:15:14.000Z",
-      "article_id": "https://tonybai.com/?p=6158",
-      "article_link": "https://tonybai.com/2026/04/08/perspective-on-quantum-computing-timeline/"
+      "published_at": "2026-04-09T00:20:15.000Z",
+      "article_id": "https://tonybai.com/?p=6161",
+      "article_link": "https://tonybai.com/2026/04/09/stop-being-small-and-beautiful-rust-petition-to-learn-from-go/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-04-07T21:00:00.000Z",
@@ -52,9 +52,9 @@
       "article_link": "https://www.wheresyoured.at/ai-is-really-weird/"
     },
     "https://www.johndcook.com/blog/feed/": {
-      "published_at": "2026-04-07T00:33:23.000Z",
-      "article_id": "https://www.johndcook.com/blog/?p=246950",
-      "article_link": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/"
+      "published_at": "2026-04-09T00:18:57.000Z",
+      "article_id": "https://www.johndcook.com/blog/?p=246954",
+      "article_link": "https://www.johndcook.com/blog/2026/04/08/andrica/"
     },
     "https://buttondown.com/hillelwayne/rss": {
       "published_at": "2026-04-01T17:53:29.000Z",
