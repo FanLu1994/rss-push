@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T21:18:07.065Z",
+  "updated_at": "2026-04-10T22:18:13.738Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-10T09:45:58.000Z",
@@ -22,9 +22,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681475&idx=1&sn=f01498335c9335c0d5b83554828072c5"
     },
     "https://daringfireball.net/feeds/main": {
-      "published_at": "2026-04-10T16:35:03.000Z",
-      "article_id": "tag:daringfireball.net,2026:/linked//6.42876",
-      "article_link": "https://applemuseum.nl/"
+      "published_at": "2026-04-10T21:29:46.000Z",
+      "article_id": "tag:daringfireball.net,2026://1.42877",
+      "article_link": "https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
       "published_at": "2026-04-10T20:27:52.000Z",
@@ -67,9 +67,9 @@
       "article_link": "http://www.phodal.com/blog/harness-engineering-gate-first/"
     },
     "https://devblogs.microsoft.com/oldnewthing/feed": {
-      "published_at": "2026-04-09T14:00:00.000Z",
-      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112220",
-      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220"
+      "published_at": "2026-04-10T14:00:00.000Z",
+      "article_id": "https://devblogs.microsoft.com/oldnewthing/?p=112223",
+      "article_link": "https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223"
     },
     "https://shkspr.mobi/blog/feed/": {
       "published_at": "2026-04-10T11:34:36.000Z",
