@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T05:06:15.026Z",
+  "updated_at": "2026-04-10T06:48:53.032Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-10T09:45:58.000Z",
@@ -17,9 +17,9 @@
       "article_link": "https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
-      "published_at": "2026-04-08T05:48:00.000Z",
-      "article_id": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681384&idx=1&sn=ade200ec983456f60be9d6ccffc258d1",
-      "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681384&idx=1&sn=ade200ec983456f60be9d6ccffc258d1"
+      "published_at": "2026-04-10T02:09:00.000Z",
+      "article_id": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681475&idx=1&sn=f01498335c9335c0d5b83554828072c5",
+      "article_link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647681475&idx=1&sn=f01498335c9335c0d5b83554828072c5"
     },
     "https://daringfireball.net/feeds/main": {
       "published_at": "2026-04-09T22:14:13.000Z",
@@ -82,9 +82,9 @@
       "article_link": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247501651&idx=1&sn=fd3a5fc58bbc6132a4821aa46a0ad3ad"
     },
     "https://blog.uwa4d.com/feed/": {
-      "published_at": "2026-04-08T03:02:00.000Z",
-      "article_id": "https://blog.uwa4d.com/archives/Usparkle_PhysicalWorld.html",
-      "article_link": "https://blog.uwa4d.com/archives/Usparkle_PhysicalWorld.html"
+      "published_at": "2026-04-10T05:50:00.000Z",
+      "article_id": "https://blog.uwa4d.com/archives/TechSharing_470.html",
+      "article_link": "https://blog.uwa4d.com/archives/TechSharing_470.html"
     },
     "https://nesbitt.io/feed.xml": {
       "published_at": "2026-04-09T10:00:00.000Z",
