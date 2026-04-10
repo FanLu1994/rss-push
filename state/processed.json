@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T19:24:53.733Z",
+  "updated_at": "2026-04-10T20:17:43.676Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-10T09:45:58.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-10/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-10T19:03:39.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47722262",
-      "article_link": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
+      "published_at": "2026-04-10T19:27:58.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47722562",
+      "article_link": "https://steveblank.com/2026/04/09/nowhere-is-safe/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-10T02:09:00.000Z",
