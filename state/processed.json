@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T10:29:29.887Z",
+  "updated_at": "2026-04-10T11:24:24.345Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-10T09:45:58.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-10/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-10T08:53:33.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47715339",
-      "article_link": "https://github.com/agberohq/keeper"
+      "published_at": "2026-04-10T10:37:33.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47716043",
+      "article_link": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-10T02:09:00.000Z",
@@ -87,9 +87,9 @@
       "article_link": "https://blog.uwa4d.com/archives/TechSharing_470.html"
     },
     "https://nesbitt.io/feed.xml": {
-      "published_at": "2026-04-09T10:00:00.000Z",
-      "article_id": "https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents",
-      "article_link": "https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html"
+      "published_at": "2026-04-10T10:00:00.000Z",
+      "article_id": "https://nesbitt.io/2026/04/10/package-registries-and-pagination",
+      "article_link": "https://nesbitt.io/2026/04/10/package-registries-and-pagination.html"
     },
     "https://www.joanwestenberg.com/rss/": {
       "published_at": "2026-04-10T01:50:12.000Z",
