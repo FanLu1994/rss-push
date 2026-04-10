@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T20:17:43.676Z",
+  "updated_at": "2026-04-10T21:18:07.065Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-10T09:45:58.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-10/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-10T19:27:58.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47722562",
-      "article_link": "https://steveblank.com/2026/04/09/nowhere-is-safe/"
+      "published_at": "2026-04-10T20:24:56.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47723243",
+      "article_link": "https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-10T02:09:00.000Z",
@@ -27,9 +27,9 @@
       "article_link": "https://applemuseum.nl/"
     },
     "https://techcrunch.com/category/artificial-intelligence/feed/": {
-      "published_at": "2026-04-10T16:41:34.000Z",
-      "article_id": "https://techcrunch.com/?p=3111370",
-      "article_link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/"
+      "published_at": "2026-04-10T20:27:52.000Z",
+      "article_id": "https://techcrunch.com/?p=3111432",
+      "article_link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/"
     },
     "https://blog.sakoamc.com/atom.xml": {
       "published_at": "2026-04-05T00:00:00.000Z",
