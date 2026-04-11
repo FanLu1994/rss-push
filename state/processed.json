@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T12:21:39.565Z",
+  "updated_at": "2026-04-11T13:30:31.791Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-11T11:01:44.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-11/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-11T08:25:14.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47728653",
-      "article_link": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/"
+      "published_at": "2026-04-11T13:01:36.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47730196",
+      "article_link": "https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-10T02:09:00.000Z",
