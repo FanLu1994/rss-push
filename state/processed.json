@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T23:17:51.069Z",
+  "updated_at": "2026-04-11T00:49:44.779Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-10T09:45:58.000Z",
@@ -12,9 +12,9 @@
       "article_link": "https://decohack.com/producthunt-daily-2026-04-10/"
     },
     "https://hnrss.org/frontpage": {
-      "published_at": "2026-04-10T23:05:48.000Z",
-      "article_id": "https://news.ycombinator.com/item?id=47724921",
-      "article_link": "https://blog.samaltman.com/2279512"
+      "published_at": "2026-04-11T00:10:51.000Z",
+      "article_id": "https://news.ycombinator.com/item?id=47725583",
+      "article_link": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/"
     },
     "https://wechat2rss.bestblogs.dev/feed/ff621c3e98d6ae6fceb3397e57441ffc6ea3c17f.xml": {
       "published_at": "2026-04-10T02:09:00.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/261314/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-04-09T23:36:06.000Z",
-      "article_id": "https://tonybai.com/?p=6164",
-      "article_link": "https://tonybai.com/2026/04/10/rails-father-dhh-on-ai-and-programmer-value/"
+      "published_at": "2026-04-11T00:14:44.000Z",
+      "article_id": "https://tonybai.com/?p=6169",
+      "article_link": "https://tonybai.com/2026/04/11/go-command-working-group-formed-legacy-commands-deprecated/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-04-09T20:00:00.000Z",
