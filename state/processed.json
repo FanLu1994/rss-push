@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T21:14:53.137Z",
+  "updated_at": "2026-04-11T23:15:59.887Z",
   "feeds": {
     "https://justlovemaki.github.io/cloudflare-ai-insight-daily/rss.xml": {
       "published_at": "2026-04-11T11:01:44.000Z",
@@ -37,9 +37,9 @@
       "article_link": "https://blog.sakoamc.com/posts/261314/"
     },
     "https://tonybai.com/feed/": {
-      "published_at": "2026-04-11T00:14:44.000Z",
-      "article_id": "https://tonybai.com/?p=6169",
-      "article_link": "https://tonybai.com/2026/04/11/go-command-working-group-formed-legacy-commands-deprecated/"
+      "published_at": "2026-04-11T22:56:06.000Z",
+      "article_id": "https://tonybai.com/?p=6173",
+      "article_link": "https://tonybai.com/2026/04/12/agile-manifesto-dead-in-ai-era-martin-fowler-kent-beck/"
     },
     "https://www.gilesthomas.com/feed/rss.xml": {
       "published_at": "2026-04-09T20:00:00.000Z",
